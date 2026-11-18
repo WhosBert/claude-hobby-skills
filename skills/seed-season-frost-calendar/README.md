@@ -1,4 +1,4 @@
-# Seed & Season Frost Calendar: a free Claude skill
+# Seed & Season Frost Calendar: a free skill for Claude and ChatGPT
 
 A small skill that turns your frost date into a seed-starting and planting calendar for up to 8 crops.
 
@@ -15,11 +15,13 @@ Made by [Seed & Season](https://garden.whatiflabs.ai/?utm_source=github&utm_medi
 3. Make sure code execution is on in **Settings**, **Capabilities**. It works on any Claude plan, including the free one.
 4. Ask Claude something in plain words. It picks the skill up on its own.
 
+Using ChatGPT? Go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick the same ZIP. Use it in **Work** mode: skills don't run in plain Chat mode.
+
 Using Claude Code instead? Copy this folder into `~/.claude/skills/`.
 
 ## Try a free tool first
 
-No Claude needed: the [Planting Calendar by Last Frost Date](https://garden.whatiflabs.ai/planting-calendar?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
+No AI app needed: the [Planting Calendar by Last Frost Date](https://garden.whatiflabs.ai/planting-calendar?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 

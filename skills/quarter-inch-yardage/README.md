@@ -1,4 +1,4 @@
-# Quarter Inch Yardage Calculator: a free Claude skill
+# Quarter Inch Yardage Calculator: a free skill for Claude and ChatGPT
 
 A small skill that works out backing, binding and batting for any quilt, plus strips and yards for a set of cut pieces.
 
@@ -15,11 +15,13 @@ Made by [Quarter Inch](https://quilt.whatiflabs.ai/?utm_source=github&utm_medium
 3. Make sure code execution is on in **Settings**, **Capabilities**. It works on any Claude plan, including the free one.
 4. Ask Claude something in plain words. It picks the skill up on its own.
 
+Using ChatGPT? Go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick the same ZIP. Use it in **Work** mode: skills don't run in plain Chat mode.
+
 Using Claude Code instead? Copy this folder into `~/.claude/skills/`.
 
 ## Try a free tool first
 
-No Claude needed: the [Quilt Backing, Binding and Batting Calculator](https://quilt.whatiflabs.ai/quilt-backing-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
+No AI app needed: the [Quilt Backing, Binding and Batting Calculator](https://quilt.whatiflabs.ai/quilt-backing-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 

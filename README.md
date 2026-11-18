@@ -1,6 +1,6 @@
-# Free Claude skills for hobbies
+# Free AI skills for hobbies (Claude and ChatGPT)
 
-Fifteen small, practical skills for Claude, one per hobby: gardening, woodworking, quilting, knitting, genealogy, homebrewing, ham radio, birding, aquariums, RV travel, homeschooling, youth coaching, tabletop RPGs, home maintenance and sermon prep.
+Fifteen small, practical skills for Claude and ChatGPT, one per hobby: gardening, woodworking, quilting, knitting, genealogy, homebrewing, ham radio, birding, aquariums, RV travel, homeschooling, youth coaching, tabletop RPGs, home maintenance and sermon prep.
 
 Each one does a single job well, like turning your frost date into a planting calendar or working out quilt yardage. They're free and MIT licensed.
 
@@ -28,6 +28,8 @@ Each one does a single job well, like turning your frost date into a planting ca
 2. In Claude on the web or desktop, open **Customize**, then **Skills**, click **+**, choose **Upload a skill** and pick the ZIP. One ZIP per upload.
 3. Turn on code execution in **Settings**, **Capabilities** if it isn't already. Any Claude plan works, including free.
 4. Ask a normal question. Claude uses the skill when it fits.
+
+In ChatGPT, go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick a ZIP. Use it in **Work** mode; skills don't run in plain Chat mode.
 
 For Claude Code, copy a folder from `skills/` into `~/.claude/skills/`.
 

@@ -1,4 +1,4 @@
-# Cut & Joint Cut List: a free Claude skill
+# Cut & Joint Cut List: a free skill for Claude and ChatGPT
 
 A small skill that turns a simple project (box, shelf, bookcase, bench, frame) into a cut list and a board-foot or plywood estimate.
 
@@ -15,11 +15,13 @@ Made by [Cut & Joint](https://wood.whatiflabs.ai/?utm_source=github&utm_medium=r
 3. Make sure code execution is on in **Settings**, **Capabilities**. It works on any Claude plan, including the free one.
 4. Ask Claude something in plain words. It picks the skill up on its own.
 
+Using ChatGPT? Go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick the same ZIP. Use it in **Work** mode: skills don't run in plain Chat mode.
+
 Using Claude Code instead? Copy this folder into `~/.claude/skills/`.
 
 ## Try a free tool first
 
-No Claude needed: the [Board Foot Calculator with Waste and Cost](https://wood.whatiflabs.ai/board-foot-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
+No AI app needed: the [Board Foot Calculator with Waste and Cost](https://wood.whatiflabs.ai/board-foot-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 

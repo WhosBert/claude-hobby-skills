@@ -1,4 +1,4 @@
-# Reef & Root Cycle Coach: a free Claude skill
+# Reef & Root Cycle Coach: a free skill for Claude and ChatGPT
 
 A small skill that walks you through cycling a new tank, reads your test results and tells you when it's safe to add fish.
 
@@ -15,11 +15,13 @@ Made by [Reef & Root](https://reef.whatiflabs.ai/?utm_source=github&utm_medium=r
 3. Make sure code execution is on in **Settings**, **Capabilities**. It works on any Claude plan, including the free one.
 4. Ask Claude something in plain words. It picks the skill up on its own.
 
+Using ChatGPT? Go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick the same ZIP. Use it in **Work** mode: skills don't run in plain Chat mode.
+
 Using Claude Code instead? Copy this folder into `~/.claude/skills/`.
 
 ## Try a free tool first
 
-No Claude needed: the [Aquarium Volume and Water Change Calculator](https://reef.whatiflabs.ai/aquarium-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
+No AI app needed: the [Aquarium Volume and Water Change Calculator](https://reef.whatiflabs.ai/aquarium-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 

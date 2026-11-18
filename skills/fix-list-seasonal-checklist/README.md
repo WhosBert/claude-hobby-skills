@@ -1,4 +1,4 @@
-# Fix List Seasonal Checklist: a free Claude skill
+# Fix List Seasonal Checklist: a free skill for Claude and ChatGPT
 
 A small skill that builds this season's home maintenance checklist for your home type, systems and climate.
 
@@ -15,11 +15,13 @@ Made by [Fix List](https://home.whatiflabs.ai/?utm_source=github&utm_medium=refe
 3. Make sure code execution is on in **Settings**, **Capabilities**. It works on any Claude plan, including the free one.
 4. Ask Claude something in plain words. It picks the skill up on its own.
 
+Using ChatGPT? Go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick the same ZIP. Use it in **Work** mode: skills don't run in plain Chat mode.
+
 Using Claude Code instead? Copy this folder into `~/.claude/skills/`.
 
 ## Try a free tool first
 
-No Claude needed: the [Home Maintenance Checklist by Season](https://home.whatiflabs.ai/home-maintenance-checklist?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
+No AI app needed: the [Home Maintenance Checklist by Season](https://home.whatiflabs.ai/home-maintenance-checklist?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
