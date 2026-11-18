@@ -1,4 +1,4 @@
-# Quarter Inch Yardage Calculator: a free skill for Claude and ChatGPT
+# Quarter Inch Yardage Calculator: a free skill for Claude, ChatGPT, Gemini and Grok
 
 A small skill that works out backing, binding and batting for any quilt, plus strips and yards for a set of cut pieces.
 
@@ -17,7 +17,9 @@ Made by [Quarter Inch](https://quilt.whatiflabs.ai/?utm_source=github&utm_medium
 
 Using ChatGPT? Go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick the same ZIP. Use it in **Work** mode: skills don't run in plain Chat mode.
 
-Using Claude Code instead? Copy this folder into `~/.claude/skills/`.
+Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and upload the same ZIP.
+
+Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
 ## Try a free tool first
 

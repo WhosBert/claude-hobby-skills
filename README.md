@@ -1,6 +1,6 @@
-# Free AI skills for hobbies (Claude and ChatGPT)
+# Free AI skills for hobbies (Claude, ChatGPT, Gemini and Grok)
 
-Fifteen small, practical skills for Claude and ChatGPT, one per hobby: gardening, woodworking, quilting, knitting, genealogy, homebrewing, ham radio, birding, aquariums, RV travel, homeschooling, youth coaching, tabletop RPGs, home maintenance and sermon prep.
+Fifteen small, practical skills for Claude, ChatGPT, Gemini and Grok, one per hobby: gardening, woodworking, quilting, knitting, genealogy, homebrewing, ham radio, birding, aquariums, RV travel, homeschooling, youth coaching, tabletop RPGs, home maintenance and sermon prep.
 
 Each one does a single job well, like turning your frost date into a planting calendar or working out quilt yardage. They're free and MIT licensed.
 
@@ -31,7 +31,9 @@ Each one does a single job well, like turning your frost date into a planting ca
 
 In ChatGPT, go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick a ZIP. Use it in **Work** mode; skills don't run in plain Chat mode.
 
-For Claude Code, copy a folder from `skills/` into `~/.claude/skills/`.
+In Gemini or Grok, open **Skills** at gemini.google.com or grok.com and upload a ZIP.
+
+For Claude Code, Codex, Cursor, Gemini CLI or another coding agent, copy a folder from `skills/` into that tool's skills folder, for example `~/.claude/skills/`.
 
 ## Free browser tools
 
