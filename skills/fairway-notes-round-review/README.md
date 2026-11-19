@@ -1,4 +1,4 @@
-# Fairway Notes Round Review: a free AI skill for Claude, ChatGPT, Gemini and Grok
+# Fairway Notes Round Review: a free skill for Claude, ChatGPT, Gemini and Grok
 
 A small skill that reads your last few rounds and tells you the one area costing you the most strokes, with a drill to fix it.
 
@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Golf Handicap Calculator (World Handicap System)](https://golf.whatiflabs.ai/golf-handicap-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Fairway Notes Golf Coach](https://golf.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $15, one time, with a 14-day refund. Find your leaks, practice smart and play every hole with a plan.
+The [Fairway Notes Golf Coach](https://golf.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Find your leaks, practice smart and play every hole with a plan.
 
 - Round and stats analysis
 - Weekly practice plans with scored drills
@@ -35,6 +37,7 @@ The [Fairway Notes Golf Coach](https://golf.whatiflabs.ai/?utm_source=github&utm
 - Ball flight diagnosis and one-fix drills
 - Rules answers with rule numbers
 - Gapping, handicap and net score help
+- Updates for a year
 - Updates for a year
 
 ## License

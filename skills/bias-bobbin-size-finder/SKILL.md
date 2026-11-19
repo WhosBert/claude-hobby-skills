@@ -15,6 +15,7 @@ Choose a pattern size the way an experienced sewist does.
    - Tops, dresses, jackets: choose by the shoulders and upper chest. Most patterns are drafted for a B cup: if full bust minus high bust is more than 2 in (5 cm), pick the size by high bust + 2 in and plan a full bust adjustment.
    - Skirts and pants: choose by hip, then adjust the waist.
    - Loose or oversized styles: compare finished garment measurements with their body plus the ease they like.
+   - Knits: size by the pattern's stretch guide and finished measurements, not the woven high-bust rule.
 4. Compare finished measurements with body measurements to show the ease: fitted woven tops about 2 to 3 in at the bust, relaxed 4 to 6 in; knits can have zero or negative ease.
 5. If measurements fall in different sizes, show how to grade between sizes: blend smoothly from one cutting line to the other between the bust and waist or waist and hip.
 6. Check length: compare their height and back waist length with the pattern's (many patterns are drafted for about 5 ft 5 to 5 ft 6 in); suggest shortening or lengthening at the marked lines.

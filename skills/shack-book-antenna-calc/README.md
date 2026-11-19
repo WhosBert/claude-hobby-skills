@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Dipole Antenna Length Calculator](https://ham.whatiflabs.ai/dipole-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Shack Book Ham Companion](https://ham.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $19, one time, with a 14-day refund. Study, set up, operate and log.
+The [Shack Book Ham Companion](https://ham.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Study, set up, operate and log.
 
 - Exam study and practice drills
 - Privileges and band plans
@@ -36,6 +38,7 @@ The [Shack Book Ham Companion](https://ham.whatiflabs.ai/?utm_source=github&utm_
 - FT8 and digital mode setup
 - UTC logs with ADIF fields
 - POTA, SOTA, contests and nets
+- Updates for a year
 - Updates for a year
 
 ## License

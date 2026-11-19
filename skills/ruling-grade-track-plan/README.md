@@ -1,0 +1,45 @@
+# Ruling Grade Track Plan: a free skill for Claude, ChatGPT, Gemini and Grok
+
+A small skill that turns your room, scale and era into a one-page layout concept with radius, grade and a list of givens and druthers.
+
+- Fits your room and scale
+- Minimum radius from your longest equipment
+- Two plan shapes to compare
+
+Made by [Ruling Grade](https://trains.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills), part of [What If Labs](https://whatiflabs.ai/projects/skill-stores).
+
+## Install it
+
+1. Download [ruling-grade-track-plan.zip](../../dist/ruling-grade-track-plan.zip) (don't unzip it).
+2. In Claude on the web or desktop, open **Customize**, then **Skills**, click **+**, choose **Upload a skill** and pick the ZIP.
+3. Make sure code execution is on in **Settings**, **Capabilities**. It works on any Claude plan, including the free one.
+4. Ask Claude something in plain words. It picks the skill up on its own.
+
+Using ChatGPT? Go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick the same ZIP. Use it in **Work** mode: skills don't run in plain Chat mode.
+
+Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and upload the same ZIP.
+
+Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
+
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
+## Try a free tool first
+
+No AI app needed: the [Model Train Scale Converter: HO, N, O, G and More](https://trains.whatiflabs.ai/model-train-scale-converter?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
+
+## Want the whole thing?
+
+The [Ruling Grade Layout Guide](https://trains.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Plan the layout, wire it right and run real operations.
+
+- Scale and gauge conversions for every common scale
+- Layout concepts from your room and druthers
+- Minimum radius, grade and clearance checks
+- DCC basics, bus and feeder wiring, reversing sections
+- Operating sessions: car cards, switch lists, fast clocks
+- Troubleshooting for derailments and shorts
+- Updates for a year
+- Updates for a year
+
+## License
+
+MIT. Use it, change it, share it. Please keep the credit to Ruling Grade.

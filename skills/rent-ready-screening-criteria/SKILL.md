@@ -13,10 +13,10 @@ Write screening criteria that are fair, consistent and easy to apply.
 2. Remind them first: Fair Housing laws protect race, color, religion, sex, national origin, familial status and disability federally in the US, and many states and cities add more (often source of income, including housing vouchers; age; marital status; sexual orientation; gender identity; criminal history limits). In Canada, provincial human rights codes apply. Criteria must be applied the same way to every applicant.
 3. Write the criteria, each as a clear, measurable rule:
    - **Application process:** first complete application in, first reviewed; each adult 18+ applies; fee amount (check local caps) and what it covers.
-   - **Income:** gross monthly income of at least [2.5 to 3] times the rent, or other proof of ability to pay (savings, guarantor); vouchers counted toward rent where required; acceptable proof.
+   - **Income:** gross monthly income of at least [2.5 to 3] times the rent, or other proof of ability to pay (savings, guarantor); vouchers counted toward rent where required, and in many places with source of income laws the income multiple may only be applied to the tenant's share of the rent; acceptable proof.
    - **Rental history:** verifiable history for the past [2 to 3] years; no unpaid balances owed to a prior landlord; how evictions are considered (check local limits on using eviction records).
    - **Credit:** what you look at (payment history, collections for rent or utilities) rather than a single score cutoff, or a score with alternatives.
-   - **Criminal history:** only if allowed locally, with an individualized assessment of relevant, recent convictions; never arrests alone (US HUD guidance).
+   - **Criminal history:** only if allowed locally, with an individualized assessment of relevant, recent convictions; never arrests alone. (HUD withdrew its 2016 guidance on this in September 2025, but the Fair Housing Act and many state and city laws still apply.)
    - **Occupancy:** follow the local occupancy code (often 2 people per bedroom plus one, depending on size and local law); don't set limits that exclude families.
    - **Pets:** policy and fees; assistance animals are not pets and can't be charged pet fees (US).
    - **Reasonable accommodation:** how applicants can request one.

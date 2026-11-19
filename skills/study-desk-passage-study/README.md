@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Church Year Calendar: Easter, Advent and Ash Wednesday](https://pastor.whatiflabs.ai/church-year-calendar?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Study Desk Pastor Prep](https://pastor.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $29, one time, with a 14-day refund. Study, outline, plan and communicate, every week.
+The [Study Desk Pastor Prep](https://pastor.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Study, outline, plan and communicate, every week.
 
 - In-depth passage study sheets
 - Interpretive options by tradition
@@ -36,6 +38,7 @@ The [Study Desk Pastor Prep](https://pastor.whatiflabs.ai/?utm_source=github&utm
 - Series and lectionary planning
 - Small-group guides and children's messages
 - Liturgy and weekly communications
+- Updates for a year
 - Updates for a year
 
 ## License

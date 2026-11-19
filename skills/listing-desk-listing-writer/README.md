@@ -1,4 +1,4 @@
-# Listing Desk Listing Writer: a free AI skill for Claude, ChatGPT, Gemini and Grok
+# Listing Desk Listing Writer: a free skill for Claude, ChatGPT, Gemini and Grok
 
 A small skill that writes an MLS description, a short portal version and a social caption from your notes, with a Fair Housing check.
 
@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Real Estate Commission Calculator: Gross, Split and Take-Home](https://realestate.whatiflabs.ai/real-estate-commission-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Listing Desk Agent Assistant](https://realestate.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $49, one time, with a 14-day refund. Copy, comps, client emails, offers and timelines for every deal.
+The [Listing Desk Agent Assistant](https://realestate.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $12, one time, with a 14-day refund. Copy, comps, client emails, offers and timelines for every deal.
 
 - Listing descriptions, feature sheets and portal copy
 - Social posts, ads and video scripts
@@ -36,6 +38,7 @@ The [Listing Desk Agent Assistant](https://realestate.whatiflabs.ai/?utm_source=
 - Offer comparison summaries
 - Transaction checklists and deadlines
 - Fair Housing language checks
+- Updates for a year
 - Updates for a year
 
 ## License

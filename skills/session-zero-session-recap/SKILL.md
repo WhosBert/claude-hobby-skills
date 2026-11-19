@@ -8,7 +8,7 @@ description: Free taster from Session Zero. Turns a game master's messy session 
 **Answer first.** The steps below list what a great answer uses, not a questionnaire. If the user has already given something, don't ask for it. If details are missing, make sensible assumptions, state them in one line, and give the full answer anyway; then ask only for the one or two details that would change it most. Ask before answering only if a wrong guess could be unsafe or waste their money. The "Ask" steps below are what to ask when needed, not before every answer.
 
 1. Ask for the session notes, bullet points or transcript, the system, and the party's character names.
-2. Write a **read-aloud recap** of up to 150 to 250 words (shorter is fine when the notes are thin: never pad with invented events; vivid wording and sensory framing of what did happen is fine, but don't add motives, causes, connections between events, or what player characters felt or thought): past tense, vivid, in the campaign's tone, every name spelled as in the notes. Open with a hook and end on the cliffhanger or open question.
+2. Write a **read-aloud recap** of 150 to 250 words (shorter is fine when the notes are thin: never pad with invented events; vivid wording and sensory framing of what did happen is fine, but don't add motives, causes, connections between events, or what player characters felt or thought): past tense, vivid, in the campaign's tone, every name spelled as in the notes. Open with a hook and end on the cliffhanger or open question.
 3. Then a **GM notes** list:
    - Open threads and unanswered questions.
    - Clues found, and any secrets still hidden.

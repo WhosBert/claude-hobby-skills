@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Knitting Gauge Calculator and Cast-On Count](https://knit.whatiflabs.ai/gauge-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Cast On Pattern Helper](https://knit.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $15, one time, with a 14-day refund. Gauge, sizing, yarn and pattern help in one.
+The [Cast On Pattern Helper](https://knit.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Gauge, sizing, yarn and pattern help in one.
 
 - Gauge math and finished sizes
 - Pattern resizing
@@ -36,6 +38,7 @@ The [Cast On Pattern Helper](https://knit.whatiflabs.ai/?utm_source=github&utm_m
 - Simple pattern design
 - Abbreviations, charts and fixes
 - Project tracking
+- Updates for a year
 - Updates for a year
 
 ## License

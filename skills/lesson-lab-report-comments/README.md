@@ -1,4 +1,4 @@
-# Lesson Lab Report Comments: a free AI skill for Claude, ChatGPT, Gemini and Grok
+# Lesson Lab Report Comments: a free skill for Claude, ChatGPT, Gemini and Grok
 
 A small skill that writes specific, kind report card comments from your notes, in your school's length and tone.
 
@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Lesson Plan Timing Calculator: Minutes for Each Part of a Lesson](https://teachers.whatiflabs.ai/lesson-plan-timing-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Lesson Lab Teacher Toolkit](https://teachers.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $49, one time, with a 14-day refund. Lessons, differentiation, assessments and parent communication, done faster.
+The [Lesson Lab Teacher Toolkit](https://teachers.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $12, one time, with a 14-day refund. Lessons, differentiation, assessments and parent communication, done faster.
 
 - Backward-designed lessons and units
 - Differentiation and accommodation supports
@@ -35,6 +37,7 @@ The [Lesson Lab Teacher Toolkit](https://teachers.whatiflabs.ai/?utm_source=gith
 - Report card comments
 - Parent emails and newsletters
 - Sub plans
+- Updates for a year
 - Updates for a year
 
 ## License

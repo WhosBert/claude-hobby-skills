@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Board Foot Calculator with Waste and Cost](https://wood.whatiflabs.ai/board-foot-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Cut & Joint Shop Planner](https://wood.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $15, one time, with a 14-day refund. Design, cut, build and finish with fewer mistakes.
+The [Cut & Joint Shop Planner](https://wood.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Design, cut, build and finish with fewer mistakes.
 
 - Design check with wood movement math
 - Joinery choice and sizing
@@ -35,6 +37,7 @@ The [Cut & Joint Shop Planner](https://wood.whatiflabs.ai/?utm_source=github&utm
 - Plywood layouts and board-foot shopping lists
 - Step-by-step build sequence
 - Finishing schedules, food-safe and outdoor
+- Updates for a year
 - Updates for a year
 
 ## License

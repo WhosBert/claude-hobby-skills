@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [RV 30 Amp vs 50 Amp Load Calculator](https://rv.whatiflabs.ai/rv-power-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Rig Ready Trip Planner](https://rv.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $15, one time, with a 14-day refund. Plan, pack, drive and maintain with confidence.
+The [Rig Ready Trip Planner](https://rv.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Plan, pack, drive and maintain with confidence.
 
 - Day-by-day RV-safe itineraries
 - Campground shortlists and booking dates
@@ -35,6 +37,7 @@ The [Rig Ready Trip Planner](https://rv.whatiflabs.ai/?utm_source=github&utm_med
 - Maintenance schedule and log
 - Weights and towing checks
 - Trip budgets
+- Updates for a year
 - Updates for a year
 
 ## License

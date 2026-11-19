@@ -1,4 +1,4 @@
-# Bias & Bobbin Size Finder: a free AI skill for Claude, ChatGPT, Gemini and Grok
+# Bias & Bobbin Size Finder: a free skill for Claude, ChatGPT, Gemini and Grok
 
 A small skill that picks your pattern size from your measurements and the pattern's charts, and flags where you'll need to grade between sizes.
 
@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Circle Skirt Calculator: Waist Radius and Fabric Yardage](https://sewing.whatiflabs.ai/circle-skirt-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Bias & Bobbin Sewing Coach](https://sewing.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $15, one time, with a 14-day refund. Fit, fabric, technique and machine help for every project.
+The [Bias & Bobbin Sewing Coach](https://sewing.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Fit, fabric, technique and machine help for every project.
 
 - Pattern size and fit adjustments
 - Fabric choice and yardage on any width
@@ -35,6 +37,7 @@ The [Bias & Bobbin Sewing Coach](https://sewing.whatiflabs.ai/?utm_source=github
 - Machine troubleshooting with needle and thread picks
 - Alterations and mending
 - Simple drafting from your measurements
+- Updates for a year
 - Updates for a year
 
 ## License

@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Aquarium Volume and Water Change Calculator](https://reef.whatiflabs.ai/aquarium-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Reef & Root Aquarium Keeper](https://reef.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $15, one time, with a 14-day refund. Cycle, stock, test, maintain and troubleshoot.
+The [Reef & Root Aquarium Keeper](https://reef.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Cycle, stock, test, maintain and troubleshoot.
 
 - Cycle plans and test interpretation
 - Stocking and compatibility checks
@@ -36,6 +38,7 @@ The [Reef & Root Aquarium Keeper](https://reef.whatiflabs.ai/?utm_source=github&
 - Volume and dosing math
 - Planted tank planning
 - Husbandry-first troubleshooting
+- Updates for a year
 - Updates for a year
 
 ## License

@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Playing Time Rotation Generator for Youth Sports](https://coach.whatiflabs.ai/playing-time-rotation?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Sideline Coach Planner](https://coach.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $15, one time, with a 14-day refund. Practices, rotations, season plans and parent emails.
+The [Sideline Coach Planner](https://coach.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Practices, rotations, season plans and parent emails.
 
 - Practice plans for any sport and age
 - Season plans by age group
@@ -35,6 +37,7 @@ The [Sideline Coach Planner](https://coach.whatiflabs.ai/?utm_source=github&utm_
 - Game-day plans
 - Parent emails and team rules
 - Positive coaching scripts
+- Updates for a year
 - Updates for a year
 
 ## License

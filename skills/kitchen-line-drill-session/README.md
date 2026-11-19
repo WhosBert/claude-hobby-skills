@@ -1,4 +1,4 @@
-# Kitchen Line Drill Session: a free AI skill for Claude, ChatGPT, Gemini and Grok
+# Kitchen Line Drill Session: a free skill for Claude, ChatGPT, Gemini and Grok
 
 A small skill that builds a timed drill session for your level, goal and the time you have, with scored drills.
 
@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Pickleball Rotation Generator for Open Play and Round Robins](https://pickleball.whatiflabs.ai/pickleball-rotation-generator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Kitchen Line Pickleball Coach](https://pickleball.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $15, one time, with a 14-day refund. Drill smarter, fix your weak shots and play better doubles.
+The [Kitchen Line Pickleball Coach](https://pickleball.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Drill smarter, fix your weak shots and play better doubles.
 
 - Drill sessions for every level
 - Shot diagnosis and fixes
@@ -35,6 +37,7 @@ The [Kitchen Line Pickleball Coach](https://pickleball.whatiflabs.ai/?utm_source
 - Rules answers in plain words
 - Open play rotations and round robins
 - Warm-up and recovery basics
+- Updates for a year
 - Updates for a year
 
 ## License

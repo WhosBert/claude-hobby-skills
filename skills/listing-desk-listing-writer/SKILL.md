@@ -11,7 +11,7 @@ Turn the agent's notes into accurate, appealing listing copy that describes the 
 
 1. Ask for: property type, beds and baths, square footage (and its source), lot, key features and updates with years, neighborhood amenities, the MLS character limit, and the brokerage's tone. Use only facts they give; mark anything missing as [confirm].
 2. Write three versions:
-   - **MLS remarks**, within the character limit (count characters, including spaces, and show the count). Lead with the strongest feature, not "Welcome home." Then the layout, updates, outdoor space and location.
+   - **MLS remarks**, within the character limit (count characters, including spaces, and show the count; use code to count if you can, otherwise aim about 5% under the limit and tell the agent to check it in the MLS). Lead with the strongest feature, not "Welcome home." Then the layout, updates, outdoor space and location.
    - **Portal short version**, about 300 characters.
    - **Social caption**, 2 to 3 short lines plus a call to action.
 3. Fair Housing check. Describe the property and location, never the buyer. Replace and explain any of these:

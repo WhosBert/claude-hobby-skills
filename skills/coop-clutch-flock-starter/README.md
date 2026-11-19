@@ -1,4 +1,4 @@
-# Coop & Clutch Flock Starter: a free AI skill for Claude, ChatGPT, Gemini and Grok
+# Coop & Clutch Flock Starter: a free skill for Claude, ChatGPT, Gemini and Grok
 
 A small skill that plans your first flock: how many hens, which breeds, coop and run size, and a setup checklist.
 
@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Chicken Coop Size Calculator: Square Feet, Run, Roosts, Nest Boxes](https://chickens.whatiflabs.ai/chicken-coop-size-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Coop & Clutch Flock Keeper](https://chickens.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $15, one time, with a 14-day refund. Plan, raise and care for a healthy, laying flock.
+The [Coop & Clutch Flock Keeper](https://chickens.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Plan, raise and care for a healthy, laying flock.
 
 - Coop, run and predator-proofing plans
 - Breed picks for your goals and climate
@@ -35,6 +37,7 @@ The [Coop & Clutch Flock Keeper](https://chickens.whatiflabs.ai/?utm_source=gith
 - Feed, bedding and egg cost math
 - Egg problem troubleshooting
 - Health checks, biosecurity and when to call a vet
+- Updates for a year
 - Updates for a year
 
 ## License

@@ -21,13 +21,15 @@ Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and uploa
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
 ## Try a free tool first
 
 No AI app needed: the [Homeschool GPA Calculator, Weighted and Unweighted](https://homeschool.whatiflabs.ai/homeschool-gpa-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
 
 ## Want the whole thing?
 
-The [Home Room Homeschool Planner](https://homeschool.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $29, one time, with a 14-day refund. Plan the year, run the week, keep the records.
+The [Home Room Homeschool Planner](https://homeschool.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Plan the year, run the week, keep the records.
 
 - Year calendars and day counts
 - Scope and sequence from your curriculum
@@ -35,6 +37,7 @@ The [Home Room Homeschool Planner](https://homeschool.whatiflabs.ai/?utm_source=
 - Unit studies and lesson plans
 - Gentle assessment ideas
 - Attendance, portfolios and transcripts
+- Updates for a year
 - Updates for a year
 
 ## License
