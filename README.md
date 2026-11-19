@@ -45,6 +45,8 @@ In Gemini or Grok, open **Skills** at gemini.google.com or grok.com and upload a
 
 For Claude Code, Codex, Cursor, Gemini CLI or another coding agent, copy a folder from `skills/` into that tool's skills folder, for example `~/.claude/skills/`.
 
+Using Microsoft Copilot, Perplexity, Meta AI or another chat with no Skills page? Every skill folder has an `ANY-AI-PASTE-VERSION.txt`. Paste it into a new chat, or add it to a ChatGPT Project, Gemini Gem, Perplexity Space or Copilot notebook.
+
 ## Free browser tools
 
 Each store also has a free calculator that runs in your browser, no sign-up:
