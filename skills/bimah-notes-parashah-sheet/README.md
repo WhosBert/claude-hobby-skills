@@ -1,0 +1,45 @@
+# Bimah Notes Parashah Sheet: a free skill for Claude, ChatGPT, Gemini and Grok
+
+A small skill that builds a one-page study sheet for any week's portion: summary, key verses, Hebrew words, discussion questions and a d'var Torah seed.
+
+- The week's portion and its date
+- Key verses and Hebrew terms with transliteration
+- Questions for a class or the Shabbat table
+
+Made by [Bimah Notes](https://rabbi.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills), part of [What If Labs](https://whatiflabs.ai/projects/skill-stores).
+
+## Install it
+
+1. Download [bimah-notes-parashah-sheet.zip](../../dist/bimah-notes-parashah-sheet.zip) (don't unzip it).
+2. In Claude on the web or desktop, open **Customize**, then **Skills**, click **+**, choose **Upload a skill** and pick the ZIP.
+3. Make sure code execution is on in **Settings**, **Capabilities**. It works on any Claude plan, including the free one.
+4. Ask Claude something in plain words. It picks the skill up on its own.
+
+Using ChatGPT? Go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick the same ZIP. Use it in **Work** mode: skills don't run in plain Chat mode.
+
+Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and upload the same ZIP.
+
+Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
+
+No Skills page in your app (Copilot, Perplexity, Meta AI)? Open `ANY-AI-PASTE-VERSION.txt` and paste it into a new chat.
+
+## Try a free tool first
+
+No AI app needed: the [Hebrew Date Converter and Torah Portion Finder](https://rabbi.whatiflabs.ai/hebrew-date-converter?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
+
+## Want the whole thing?
+
+The [Bimah Notes Rabbi Desk](https://rabbi.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $5, one time, with a 14-day refund. Study, sermons, the calendar, life-cycle events and congregational writing.
+
+- Parashah study with named sources
+- D'var Torah and High Holy Day sermon outlines
+- Hebrew dates, holidays and portions
+- Bar and bat mitzvah study plans and family letters
+- Wedding, funeral and shiva guides
+- Bulletin, holiday and condolence writing
+- Updates for a year
+- Updates for a year
+
+## License
+
+MIT. Use it, change it, share it. Please keep the credit to Bimah Notes.
