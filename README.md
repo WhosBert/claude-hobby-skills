@@ -1,6 +1,6 @@
-# Free AI skills for hobbies (Claude, ChatGPT, Gemini and Grok)
+# Free AI skills for hobbies and work (Claude, ChatGPT, Gemini and Grok)
 
-Fifteen small, practical skills for Claude, ChatGPT, Gemini and Grok, one per hobby: gardening, woodworking, quilting, knitting, genealogy, homebrewing, ham radio, birding, aquariums, RV travel, homeschooling, youth coaching, tabletop RPGs, home maintenance and sermon prep.
+Twenty-five small, practical skills for Claude, ChatGPT, Gemini and Grok. Twenty are for hobbies: gardening, woodworking, quilting, knitting, sewing, genealogy, homebrewing, ham radio, birding, aquariums, RV travel, fishing, golf, pickleball, backyard chickens, homeschooling, youth coaching, tabletop RPGs, home maintenance and sermon prep. Five are for work: real estate agents, nonprofits and grant writers, teachers, small landlords and trades businesses.
 
 Each one does a single job well, like turning your frost date into a planting calendar or working out quilt yardage. They're free and MIT licensed.
 
@@ -21,6 +21,16 @@ Each one does a single job well, like turning your frost date into a planting ca
 | [Life List ID Helper](skills/life-list-id-helper/) | A small skill that asks the right questions about a bird you saw or heard, gives the most likely species with an honest confidence level, and says whether it's safe to count. | [Download](dist/life-list-id-helper.zip) | [birding.whatiflabs.ai](https://birding.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
 | [Shack Book Antenna Calculator](skills/shack-book-antenna-calc/) | A small skill that works out starting lengths for dipoles and verticals in feet and meters, explains how to trim for low SWR, and checks the frequency against your license. | [Download](dist/shack-book-antenna-calc.zip) | [ham.whatiflabs.ai](https://ham.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
 | [Brew Day Recipe Calculator](skills/brew-day-recipe-calc/) | A small skill that takes your recipe and works out estimated OG, FG, ABV, IBU and color, shows the working and compares it to your target style. | [Download](dist/brew-day-recipe-calc.zip) | [brew.whatiflabs.ai](https://brew.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Tight Lines Bite Plan](skills/tight-lines-bite-plan/) | A small skill that builds a one-page game plan for your species, water and conditions: where to start, what to throw and plan B. | [Download](dist/tight-lines-bite-plan.zip) | [fishing.whatiflabs.ai](https://fishing.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Fairway Notes Round Review](skills/fairway-notes-round-review/) | A small skill that reads your last few rounds and tells you the one area costing you the most strokes, with a drill to fix it. | [Download](dist/fairway-notes-round-review.zip) | [golf.whatiflabs.ai](https://golf.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Kitchen Line Drill Session](skills/kitchen-line-drill-session/) | A small skill that builds a timed drill session for your level, goal and the time you have, with scored drills. | [Download](dist/kitchen-line-drill-session.zip) | [pickleball.whatiflabs.ai](https://pickleball.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Coop & Clutch Flock Starter](skills/coop-clutch-flock-starter/) | A small skill that plans your first flock: how many hens, which breeds, coop and run size, and a setup checklist. | [Download](dist/coop-clutch-flock-starter.zip) | [chickens.whatiflabs.ai](https://chickens.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Bias & Bobbin Size Finder](skills/bias-bobbin-size-finder/) | A small skill that picks your pattern size from your measurements and the pattern's charts, and flags where you'll need to grade between sizes. | [Download](dist/bias-bobbin-size-finder.zip) | [sewing.whatiflabs.ai](https://sewing.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Listing Desk Listing Writer](skills/listing-desk-listing-writer/) | A small skill that writes an MLS description, a short portal version and a social caption from your notes, with a Fair Housing check. | [Download](dist/listing-desk-listing-writer.zip) | [realestate.whatiflabs.ai](https://realestate.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Grant Ready Need Statement](skills/grant-ready-need-statement/) | A small skill that turns your data and stories into a clear, cited statement of need for a grant proposal, inside the funder's word limit. | [Download](dist/grant-ready-need-statement.zip) | [grants.whatiflabs.ai](https://grants.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Lesson Lab Report Comments](skills/lesson-lab-report-comments/) | A small skill that writes specific, kind report card comments from your notes, in your school's length and tone. | [Download](dist/lesson-lab-report-comments.zip) | [teachers.whatiflabs.ai](https://teachers.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Rent Ready Screening Criteria](skills/rent-ready-screening-criteria/) | A small skill that writes clear, written tenant screening criteria you can post and apply the same way to every applicant, with Fair Housing checks. | [Download](dist/rent-ready-screening-criteria.zip) | [landlords.whatiflabs.ai](https://landlords.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Job Ticket Quote Writer](skills/job-ticket-quote-writer/) | A small skill that turns your job notes into a clear, professional quote with scope, exclusions, price and terms. | [Download](dist/job-ticket-quote-writer.zip) | [trades.whatiflabs.ai](https://trades.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
 
 ## Install a skill
 
@@ -54,6 +64,16 @@ Each store also has a free calculator that runs in your browser, no sign-up:
 - [Best Time to Go Birding Today: Sunrise Planner](https://birding.whatiflabs.ai/best-birding-times?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
 - [Dipole Antenna Length Calculator](https://ham.whatiflabs.ai/dipole-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
 - [ABV and Priming Sugar Calculator for Homebrew](https://brew.whatiflabs.ai/abv-priming-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Fish Weight Calculator from Length and Girth](https://fishing.whatiflabs.ai/fish-weight-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Golf Handicap Calculator (World Handicap System)](https://golf.whatiflabs.ai/golf-handicap-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Pickleball Rotation Generator for Open Play and Round Robins](https://pickleball.whatiflabs.ai/pickleball-rotation-generator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Chicken Coop Size Calculator: Square Feet, Run, Roosts, Nest Boxes](https://chickens.whatiflabs.ai/chicken-coop-size-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Circle Skirt Calculator: Waist Radius and Fabric Yardage](https://sewing.whatiflabs.ai/circle-skirt-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Real Estate Commission Calculator: Gross, Split and Take-Home](https://realestate.whatiflabs.ai/real-estate-commission-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Grant Budget Calculator with Indirect Costs (MTDC)](https://grants.whatiflabs.ai/grant-budget-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Lesson Plan Timing Calculator: Minutes for Each Part of a Lesson](https://teachers.whatiflabs.ai/lesson-plan-timing-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Rental Property Cash Flow Calculator: NOI, Cap Rate, Cash on Cash](https://landlords.whatiflabs.ai/rental-property-cash-flow-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Markup vs Margin Calculator for Contractors](https://trades.whatiflabs.ai/markup-vs-margin-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
 
 ## Who made these
 
@@ -61,4 +81,6 @@ Each store also has a free calculator that runs in your browser, no sign-up:
 
 Questions or fixes: open an issue, or email support@whatiflabs.ai.
 
-These are independent products and are not affiliated with or endorsed by Anthropic.
+These are independent products and are not affiliated with or endorsed by Anthropic, OpenAI, Google or xAI.
+
+Browse every store at [whatiflabs.ai/skills](https://whatiflabs.ai/skills?utm_source=github&utm_medium=referral&utm_campaign=free-skills).

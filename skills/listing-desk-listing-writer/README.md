@@ -1,0 +1,43 @@
+# Listing Desk Listing Writer: a free AI skill for Claude, ChatGPT, Gemini and Grok
+
+A small skill that writes an MLS description, a short portal version and a social caption from your notes, with a Fair Housing check.
+
+- Fits your MLS character limit
+- Three versions: MLS, portal, social
+- Flags Fair Housing risk words
+
+Made by [Listing Desk](https://realestate.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills), part of [What If Labs](https://whatiflabs.ai/projects/skill-stores).
+
+## Install it
+
+1. Download [listing-desk-listing-writer.zip](../../dist/listing-desk-listing-writer.zip) (don't unzip it).
+2. In Claude on the web or desktop, open **Customize**, then **Skills**, click **+**, choose **Upload a skill** and pick the ZIP.
+3. Make sure code execution is on in **Settings**, **Capabilities**. It works on any Claude plan, including the free one.
+4. Ask Claude something in plain words. It picks the skill up on its own.
+
+Using ChatGPT? Go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick the same ZIP. Use it in **Work** mode: skills don't run in plain Chat mode.
+
+Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and upload the same ZIP.
+
+Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
+
+## Try a free tool first
+
+No AI app needed: the [Real Estate Commission Calculator: Gross, Split and Take-Home](https://realestate.whatiflabs.ai/real-estate-commission-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills) runs in your browser and shows its working.
+
+## Want the whole thing?
+
+The [Listing Desk Agent Assistant](https://realestate.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) is $49, one time, with a 14-day refund. Copy, comps, client emails, offers and timelines for every deal.
+
+- Listing descriptions, feature sheets and portal copy
+- Social posts, ads and video scripts
+- CMA pricing narratives
+- Lead replies and follow-up sequences
+- Offer comparison summaries
+- Transaction checklists and deadlines
+- Fair Housing language checks
+- Updates for a year
+
+## License
+
+MIT. Use it, change it, share it. Please keep the credit to Listing Desk.
