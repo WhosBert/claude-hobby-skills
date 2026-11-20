@@ -103,6 +103,14 @@ In Gemini or Grok, open **Skills** at gemini.google.com or grok.com and upload a
 
 For Claude Code, Codex, Cursor, Gemini CLI or another coding agent, copy a folder from `skills/` into that tool's skills folder, for example `~/.claude/skills/`.
 
+Or install from the command line with the open skills CLI:
+
+```
+npx skills add WhosBert/claude-hobby-skills --skill seed-season-frost-calendar
+```
+
+In Claude Code you can also add the whole library as a plugin marketplace: `/plugin marketplace add WhosBert/claude-hobby-skills`.
+
 Using Microsoft Copilot, Perplexity, Meta AI or another chat with no Skills page? Every skill folder has an `ANY-AI-PASTE-VERSION.txt`. Paste it into a new chat, or add it to a ChatGPT Project, Gemini Gem, Perplexity Space or Copilot notebook.
 
 ## Free browser tools
