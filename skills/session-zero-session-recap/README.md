@@ -17,7 +17,7 @@ Made by [Session Zero](https://gm.whatiflabs.ai/?utm_source=github&utm_medium=re
 
 Using ChatGPT? Personal plans (Free, Plus, Pro) don't have Skills yet: open **Projects**, make a new project, add the skill's `ANY-AI-PASTE-VERSION.txt` to it and type in its instructions: Follow the attached file. On a Business, Enterprise or Edu plan, go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick the same ZIP.
 
-Using Gemini or Grok? Open **Skills** at gemini.google.com or grok.com and upload the same ZIP.
+Using Gemini? Unzip it first, then open **Customize**, **Skills**, **Create**, **Upload**, choose **folder** and pick the unzipped folder. Using Grok? Open **Settings**, **Skills**: upload the ZIP if you see Upload, or paste `ANY-AI-PASTE-VERSION.txt` (below the line of equals signs) into a **New Skill**.
 
 Using Claude Code, Codex, Cursor, Gemini CLI or another coding agent? Copy this folder into that tool's skills folder, for example `~/.claude/skills/`.
 

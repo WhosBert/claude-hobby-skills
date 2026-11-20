@@ -1,11 +1,15 @@
 Clean Sweep Price Sheet (free): paste version for any AI chat
 
 Use this file if your AI app has no Skills upload, for example Microsoft Copilot,
-Perplexity, Meta AI, Mistral Le Chat, or a ChatGPT or Gemini plan that doesn't
-show a Skills page yet. If your app does have Skills (Claude, ChatGPT, Gemini,
-Grok), upload the ZIP instead. It works better and stays on in every chat.
+Perplexity, Meta AI, Mistral Le Chat, or a personal ChatGPT plan. In Claude,
+upload the ZIP under Skills instead. In Gemini, upload the unzipped folder
+under Customize, Skills. Both work better and stay on in every chat.
 
-TWO WAYS TO USE IT
+IN GROK
+Open Settings, then Skills, then New Skill. Give it a name, then paste
+everything below the line of equals signs into Instructions and save.
+
+OTHER WAYS TO USE IT
 1. Any chat: copy everything below the line of equals signs, paste it as your
    first message, then ask your question in that same chat.
 2. Saved setup: add this file, or paste its text, into a ChatGPT Project, a

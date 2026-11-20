@@ -111,7 +111,7 @@ Each one does a single job well, like turning your frost date into a planting ca
 
 In ChatGPT, personal plans (Free, Plus, Pro) don't have Skills yet: open **Projects**, make a new project, add the skill's `ANY-AI-PASTE-VERSION.txt` to it and type in its instructions: Follow the attached file. On a Business, Enterprise or Edu plan, go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick a ZIP.
 
-In Gemini or Grok, open **Skills** at gemini.google.com or grok.com and upload a ZIP.
+In Gemini, download a skill folder (or unzip a ZIP) and upload the folder under **Customize**, **Skills**, **Create**, **Upload**. In Grok, open **Settings**, **Skills** and upload the ZIP, or paste `ANY-AI-PASTE-VERSION.txt` into a **New Skill**.
 
 For Claude Code, Codex, Cursor, Gemini CLI or another coding agent, copy a folder from `skills/` into that tool's skills folder, for example `~/.claude/skills/`.
 
