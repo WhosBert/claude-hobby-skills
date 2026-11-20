@@ -11,7 +11,7 @@
   "plugins": [
     {
       "name": "hobby-and-home-skills",
-      "description": "62 free skills for hobbies, home, family and faith: gardening, fishing, quilting, baking, dog and cat care, chess, holidays, budgets for trips and more.",
+      "description": "67 free skills for hobbies, home, family and faith: gardening, fishing, quilting, baking, dog and cat care, chess, holidays, budgets for trips and more.",
       "source": "./",
       "strict": false,
       "skills": [
@@ -76,12 +76,17 @@
         "./skills/plate-math-starter-program",
         "./skills/woodshed-practice-plan",
         "./skills/fresh-tracks-packing-list",
-        "./skills/show-of-hands-meeting-plan"
+        "./skills/show-of-hands-meeting-plan",
+        "./skills/even-keel-month-plan",
+        "./skills/paper-trail-document-checklist",
+        "./skills/fresh-keys-move-timeline",
+        "./skills/sunday-prep-week-plan",
+        "./skills/window-seat-day-plan"
       ]
     },
     {
       "name": "small-business-skills",
-      "description": "14 free skills for small-business work: real estate, grants, bookkeeping, salons, trainers, cleaning, lawn care, rental hosts and more.",
+      "description": "21 free skills for small-business work: real estate, grants, bookkeeping, salons, trainers, cleaning, lawn care, rental hosts and more.",
       "source": "./",
       "strict": false,
       "skills": [
@@ -98,7 +103,14 @@
         "./skills/maker-tag-price-plan",
         "./skills/guest-ready-turnover-checklist",
         "./skills/clean-sweep-price-sheet",
-        "./skills/edge-mow-bid-sheet"
+        "./skills/edge-mow-bid-sheet",
+        "./skills/crumb-coat-cake-price",
+        "./skills/study-hall-session-plan",
+        "./skills/leash-key-client-intake",
+        "./skills/service-window-menu-cost",
+        "./skills/day-rate-rate-check",
+        "./skills/roadmap-room-okr-check",
+        "./skills/launch-copy-positioning-statement"
       ]
     }
   ]
