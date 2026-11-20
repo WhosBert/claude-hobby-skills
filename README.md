@@ -84,7 +84,7 @@ Each one does a single job well, like turning your frost date into a planting ca
 3. Turn on code execution in **Settings**, **Capabilities** if it isn't already. Any Claude plan works, including free.
 4. Ask a normal question. Claude uses the skill when it fits.
 
-In ChatGPT, go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick a ZIP. Use it in **Work** mode; skills don't run in plain Chat mode.
+In ChatGPT, personal plans (Free, Plus, Pro) don't have Skills yet: open **Projects**, make a new project, add the skill's `ANY-AI-PASTE-VERSION.txt` to it and type in its instructions: Follow the attached file. On a Business, Enterprise or Edu plan, go to **Skills** (chatgpt.com/skills), click **Add**, choose **Upload from your computer** and pick a ZIP.
 
 In Gemini or Grok, open **Skills** at gemini.google.com or grok.com and upload a ZIP.
 
