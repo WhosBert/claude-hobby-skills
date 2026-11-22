@@ -1,6 +1,7 @@
 ---
 name: small-hours-day-plan
 description: Free taster from Small Hours. Builds a one-page day routine for a baby or toddler from their age and wake-up time: naps, feeds, bedtime and awake windows, with safe sleep basics and the signs that mean call the pediatrician. Use when someone asks for a baby schedule, nap times, wake windows, a bedtime for their baby, how much a baby that age should sleep, or a routine for a newborn, infant or toddler.
+allowed-tools: Read
 ---
 
 # Small Hours Day Plan (free)

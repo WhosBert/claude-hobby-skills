@@ -1,6 +1,7 @@
 ---
 name: woodshed-practice-plan
 description: Free taster from Woodshed. Builds a weekly practice plan for an adult guitar or piano player that fits the minutes and days they have, with a warm-up, a metronome tempo ladder (start slow, raise in small steps), one song or piece broken into sections, a short review block and a simple log. Use when someone asks for a practice routine, how to practice with little time, how to use a metronome to get faster, or how to learn a song step by step.
+allowed-tools: Read
 ---
 
 # Woodshed Practice Plan (free)

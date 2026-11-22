@@ -1,6 +1,7 @@
 ---
 name: dipstick-maintenance-schedule
 description: Free taster from Dipstick. Builds a maintenance schedule for one car from the user's owner's manual intervals (or typical ranges labeled "check your manual", never invented intervals for a model), picks the normal or severe schedule, works out what's due next by miles and date, and adds a 10-minute monthly check. Use when someone asks when their next oil change is, what maintenance their car needs or what's due at a mileage.
+allowed-tools: Read
 ---
 
 # Dipstick Maintenance Schedule (free)

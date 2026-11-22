@@ -1,6 +1,7 @@
 ---
 name: hand-rail-care-card
 description: Free taster from Hand Rail. Builds a one-page care summary for an aging parent: contacts, doctors and pharmacy, conditions as the family describes them, a medication list copied from the labels, the daily routine and emergency steps, ready for siblings, paid helpers or the ER. Use when someone caring for a mom, dad or older relative asks to organise their care, make a medication list, prepare a summary for a new caregiver or hospital, or get everything in one place.
+allowed-tools: Read
 ---
 
 # Hand Rail Care Card (free)

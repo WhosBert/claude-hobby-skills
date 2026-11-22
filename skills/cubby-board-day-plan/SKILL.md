@@ -1,6 +1,7 @@
 ---
 name: cubby-board-day-plan
 description: Free taster from Cubby Board. Builds a daily schedule for a home daycare or family child care program's mix of ages, with arrivals, meals, naps, outdoor time, learning activities and pickup, infants on their own schedules, and a parent-friendly version to share. Use when a home daycare provider, family child care provider or nanny asks for a daily schedule, routine, day plan, nap schedule or activity plan for infants, toddlers and preschoolers together.
+allowed-tools: Read
 ---
 
 # Cubby Board Day Plan (free)

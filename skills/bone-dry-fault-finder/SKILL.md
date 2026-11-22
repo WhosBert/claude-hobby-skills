@@ -1,6 +1,7 @@
 ---
 name: bone-dry-fault-finder
 description: Free taster from Bone Dry. Diagnoses one pottery glaze or clay fault from what the potter saw, ranks the likely causes and gives the fix to test first with a test tile plan. Use when someone describes crawling, crazing, shivering, pinholes, blisters, running glaze, a dull glaze, cracks or warping, or asks what went wrong in a kiln firing.
+allowed-tools: Read
 ---
 
 # Bone Dry Fault Finder (free)

@@ -1,6 +1,7 @@
 ---
 name: fix-list-seasonal-checklist
 description: Free taster from Fix List. Builds a short, personalised home maintenance checklist for the current season based on the user's home type, location and systems. Use when someone asks what home maintenance to do this season, this month, before winter or before summer.
+allowed-tools: Read
 ---
 
 # Fix List Seasonal Checklist (free)

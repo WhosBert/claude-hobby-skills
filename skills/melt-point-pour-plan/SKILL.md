@@ -1,6 +1,7 @@
 ---
 name: melt-point-pour-plan
 description: Free taster from Melt Point. Plans one container candle batch: wax and fragrance oil weights for the jars and fragrance load, adding and pouring temperatures, cure time, a wick starting point and a safe test burn checklist. Use when someone asks how much wax or fragrance oil for their candles, what fragrance load to use, how to pour soy candles, or how to test a wick.
+allowed-tools: Read
 ---
 
 # Melt Point Pour Plan (free)

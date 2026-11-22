@@ -1,6 +1,7 @@
 ---
 name: rook-lift-study-plan
 description: Free taster from Rook Lift. Builds a one-week chess study plan for the player's rating and available hours, with a daily tactics routine, an endgame, playing and review, and one habit to fix. Use when someone asks how to get better at chess, what to study at their rating, how to stop blundering, a chess training plan or schedule, or how to help a child practise chess.
+allowed-tools: Read
 ---
 
 # Rook Lift Study Plan (free)

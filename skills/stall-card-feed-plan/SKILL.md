@@ -1,6 +1,7 @@
 ---
 name: stall-card-feed-plan
 description: Free taster from Stall Card. Estimates a horse's weight from heart girth and body length with a soft tape (girth² × length ÷ 330 in inches, or ÷ 11,880 in centimeters) and builds a simple forage-first daily feeding plan at 1.5 to 2.5% of body weight, with the math shown, plus when to add feed and when to ask the vet. Use when someone asks how much their horse weighs, how much hay to feed, how many flakes or bales they need, or whether their horse needs grain.
+allowed-tools: Read
 ---
 
 # Stall Card Feed Plan (free)

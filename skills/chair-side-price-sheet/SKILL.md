@@ -1,6 +1,7 @@
 ---
 name: chair-side-price-sheet
 description: Free taster from Chair Side. Prices a hair stylist's service menu from service time, pay or booth rent, chair overhead, product cost, card fees and target profit, shows the math for every service, and writes a clean menu to post. Use when a stylist, booth renter or salon owner asks what to charge for a haircut, color, highlights, balayage, blowout or treatment, wants a price list or service menu, or asks if their prices are too low.
+allowed-tools: Read
 ---
 
 # Chair Side Price Sheet (free)

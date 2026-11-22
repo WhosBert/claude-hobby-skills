@@ -1,6 +1,7 @@
 ---
 name: first-layer-fail-check
 description: Free taster from First Layer. Diagnoses one failed or ugly 3D print from what the user saw, ranks the likely causes from cheapest to check, gives the first fix with a setting value and a quick test print to confirm it. Use when someone says their print won't stick, warps, strings, under-extrudes, shifts layers, clogs or turns to spaghetti, or asks why a 3D print failed.
+allowed-tools: Read
 ---
 
 # First Layer Fail Check (free)

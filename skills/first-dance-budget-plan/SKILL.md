@@ -1,6 +1,7 @@
 ---
 name: first-dance-budget-plan
 description: Free taster from First Dance. Splits a couple's total wedding budget across 13 categories for their guest count and top priority, shows the per-guest math for venue, food and drink, keeps a 5% contingency and flags when the numbers are tight. Use when someone asks how to split or allocate a wedding budget, how much to spend on a venue, caterer or photographer, what a wedding costs per guest, or whether their budget works for their guest count.
+allowed-tools: Read
 ---
 
 # First Dance Budget Plan (free)

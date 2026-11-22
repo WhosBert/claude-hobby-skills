@@ -1,6 +1,7 @@
 ---
 name: crumb-coat-cake-price
 description: Free taster from Crumb Coat. Prices one cake for a home baker from its ingredient cost, packaging, the hours it takes and the baker's target hourly rate, adds overhead, profit and card fees, shows every step of the math, and gives a price per serving using a published servings chart as a guide. Use when a home baker or small cake business asks what to charge for a birthday, wedding, tiered, sheet or custom cake, whether their cake price is too low, or how to turn their costs and hours into a quote.
+allowed-tools: Read
 ---
 
 # Crumb Coat Cake Price (free)

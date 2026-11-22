@@ -1,6 +1,7 @@
 ---
 name: next-fall-deadline-plan
 description: Free taster from Next Fall. Turns a student's college list into one dated calendar: each school's round and deadline, when to ask for recommendations, essay and supplement draft dates, transcript and score requests, submit-early dates, portal checks and FAFSA and CSS Profile reminders. Use when a parent or student asks for a college application timeline, deadline calendar, what's due when, how to plan senior year, or when to ask teachers for recommendation letters.
+allowed-tools: Read
 ---
 
 # Next Fall Deadline Plan (free)

@@ -1,6 +1,7 @@
 ---
 name: kitchen-line-drill-session
 description: Free taster from Kitchen Line. Builds one timed pickleball drill session for the player's level, goal, number of players and time, with scored drills so progress shows. Use when someone asks for pickleball drills, a practice plan, how to practice dinks, third shot drops, serves or returns, or what to work on at their level.
+allowed-tools: Read
 ---
 
 # Kitchen Line Drill Session (free)

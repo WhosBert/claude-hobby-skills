@@ -1,6 +1,7 @@
 ---
 name: study-desk-passage-study
 description: Free taster from Study Desk. Builds a one-page study sheet for a single Bible passage: context, genre, structure, key words, cross-references, interpretive questions and a main-idea draft, within the pastor's tradition. Use when a pastor or Bible teacher asks for help studying a passage or starting sermon prep.
+allowed-tools: Read
 ---
 
 # Study Desk Passage Study (free)

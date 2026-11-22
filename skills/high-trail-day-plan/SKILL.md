@@ -1,6 +1,7 @@
 ---
 name: high-trail-day-plan
 description: Free taster from High Trail. Builds a one-page plan for one day hike: hiking time from Naismith's rule, a start and turnaround time, water and food, the Ten Essentials and weather rules. Use when someone asks how long a hike will take, when to start or turn around, how much water to bring, or what to pack for a day hike.
+allowed-tools: Read
 ---
 
 # High Trail Day Plan (free)

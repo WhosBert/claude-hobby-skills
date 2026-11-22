@@ -1,6 +1,7 @@
 ---
 name: tight-lines-bite-plan
 description: Free taster from Tight Lines. Builds a one-page fishing game plan for one species, water and day: where to start, what to throw, how to rig it and a plan B. Use when someone asks where to fish, what lure to use, how to catch a species this weekend, or why fish aren't biting.
+allowed-tools: Read
 ---
 
 # Tight Lines Bite Plan (free)

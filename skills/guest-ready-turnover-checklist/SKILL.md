@@ -1,6 +1,7 @@
 ---
 name: guest-ready-turnover-checklist
 description: Free taster from Guest Ready. Builds a room-by-room turnover checklist for one short-term or vacation rental, with a restock list, a dated damage photo routine, a safety check and a cleaner's report, plus the true cost of a turnover. Use when a host or cleaner asks for a cleaning checklist, turnover checklist, changeover list, restock list, or what a cleaner should do between guests.
+allowed-tools: Read
 ---
 
 # Guest Ready Turnover Checklist (free)

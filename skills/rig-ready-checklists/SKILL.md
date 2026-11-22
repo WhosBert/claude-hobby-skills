@@ -1,6 +1,7 @@
 ---
 name: rig-ready-checklists
 description: Free taster from Rig Ready. Builds personalised RV departure and arrival checklists for the user's specific rig (travel trailer, fifth wheel, motorhome or van). Use when someone asks for an RV checklist, what to check before driving off, or how to set up at a campsite.
+allowed-tools: Read
 ---
 
 # Rig Ready Checklists (free)

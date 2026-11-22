@@ -1,6 +1,7 @@
 ---
 name: reef-root-cycle-coach
 description: Free taster from Reef & Root. Coaches someone through cycling a new freshwater or saltwater aquarium, reads their ammonia, nitrite and nitrate test results, and tells them what stage they're at and when it's safe to add fish. Use when someone sets up a new tank, asks about cycling, or shares ammonia, nitrite or nitrate readings.
+allowed-tools: Read
 ---
 
 # Reef & Root Cycle Coach (free)

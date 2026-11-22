@@ -1,6 +1,7 @@
 ---
 name: kin-record-record-reader
 description: Free taster from Kin & Record. Transcribes and analyses one genealogy record (a census page, certificate, parish entry, obituary, passenger list or will), pulls out every fact, classifies the evidence, and writes a source citation. Use when someone shares or describes a family history document and asks what it says or means.
+allowed-tools: Read
 ---
 
 # Kin & Record Record Reader (free)

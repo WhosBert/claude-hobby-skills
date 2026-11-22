@@ -1,6 +1,7 @@
 ---
 name: tidy-ledger-close-checklist
 description: Free taster from Tidy Ledger. Builds a month-end close checklist for one bookkeeping client, in order, with how to check each step, who owns it, and the client question list to send. Use when a bookkeeper asks for a month-end close checklist, a closing process, what to check before sending monthly reports, or how to close the books for a client in QuickBooks, Xero, Wave or similar software.
+allowed-tools: Read
 ---
 
 # Tidy Ledger Close Checklist (free)

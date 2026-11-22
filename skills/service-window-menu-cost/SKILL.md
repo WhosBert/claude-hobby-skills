@@ -1,6 +1,7 @@
 ---
 name: service-window-menu-cost
 description: Free taster from Service Window. Costs one menu item for a food truck, cart or market stall from ingredient prices, portions and usable yields, adds packaging, shows the plate cost and food cost percentage with every step of the math, and suggests a menu price at the owner's target food cost, rounded to a clean board price. Use when a food truck, cart, stall or pop-up owner asks what a menu item costs them, what their food cost percentage is, or what to charge for a dish.
+allowed-tools: Read
 ---
 
 # Service Window Menu Cost (free)

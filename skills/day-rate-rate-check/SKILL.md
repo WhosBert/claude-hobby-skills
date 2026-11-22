@@ -1,6 +1,7 @@
 ---
 name: day-rate-rate-check
 description: Free taster from Day Rate. Works out the hourly rate and day rate a freelancer or solo consultant needs to reach a target income, from business costs, self-funded benefits, time off, hours worked and the share of hours they can bill, and shows every step of the math. Use when a freelance designer, writer, developer, marketer, virtual assistant or consultant asks what to charge, what hourly or day rate they need, whether their rate is too low, or how to turn a salary into a freelance rate.
+allowed-tools: Read
 ---
 
 # Day Rate Rate Check (free)

@@ -1,6 +1,7 @@
 ---
 name: sunday-prep-week-plan
 description: Free taster from Sunday Prep. Plans 5 weeknight dinners for a household from the number of people, cooking time, budget and likes or dislikes, shares ingredients across meals, plans one night of leftovers, and writes one grocery list grouped by store section with quantities, plus a short Sunday prep list and safe leftover times from FoodSafety.gov and Health Canada. Use when someone asks what to make for dinner this week, wants a weekly meal plan, a dinner plan for the family, or a grocery list for the week.
+allowed-tools: Read
 ---
 
 # Sunday Prep Week Plan (free)

@@ -1,6 +1,7 @@
 ---
 name: stop-down-scene-card
 description: Free taster from Stop Down. Gives a settings card for one photography scene: mode, aperture, shutter speed, ISO, focus and one composition tip, with the reason for each and a fix for the most common mistake. Use when someone asks what camera settings to use, how to photograph a scene or event, why their photos are blurry or grainy, or how to get a blurry background.
+allowed-tools: Read
 ---
 
 # Stop Down Scene Card (free)

@@ -1,6 +1,7 @@
 ---
 name: show-of-hands-meeting-plan
 description: Free taster from Show of Hands. Plans one meeting for a volunteer-led group: a timed, minute-by-minute plan for a kids' den, troop, club or youth meeting (gathering activity, opening, main activity, snack and cleanup, closing, supplies and adult jobs), or an agenda with times for a PTA, PTO, booster or committee meeting plus a simple minutes template. Follows the group's own youth protection rules, such as two-adult leadership. Use when a Scout leader, 4-H club leader, PTA or PTO officer, booster volunteer or any group leader asks to plan a meeting, write an agenda, or take minutes.
+allowed-tools: Read
 ---
 
 # Show of Hands Meeting Plan (free)

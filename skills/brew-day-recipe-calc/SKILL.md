@@ -1,6 +1,7 @@
 ---
 name: brew-day-recipe-calc
 description: Free taster from Brew Day. Calculates a homebrew recipe's estimated original gravity, final gravity, ABV, IBU and colour from the grain bill, hops, yeast and batch size, shows the working, and compares the numbers to the target style. Use when someone shares a beer recipe or asks what ABV, IBU or OG a recipe will have.
+allowed-tools: Read
 ---
 
 # Brew Day Recipe Calculator (free)

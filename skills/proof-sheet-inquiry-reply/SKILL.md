@@ -1,6 +1,7 @@
 ---
 name: proof-sheet-inquiry-reply
 description: Free taster from Proof Sheet. Writes a warm, fast reply to a new wedding, elopement, family, newborn, headshot or event photography inquiry, with the photographer's starting price, what's included, two easy questions and one clear next step to book, plus a short follow-up if they don't reply. Use when a photographer pastes an inquiry, asks how to reply to a potential client, how to answer "how much do you charge?", or how to follow up on an inquiry that went quiet.
+allowed-tools: Read
 ---
 
 # Proof Sheet Inquiry Reply (free)

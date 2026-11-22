@@ -1,6 +1,7 @@
 ---
 name: bias-bobbin-size-finder
 description: Free taster from Bias & Bobbin. Picks the right sewing pattern size from body measurements and the pattern's body and finished garment charts, chooses the size for the fitted area, and flags where to grade between sizes or change length. Use when someone asks what size to cut, how to read a pattern size chart, or why their pattern size differs from their store size.
+allowed-tools: Read
 ---
 
 # Bias & Bobbin Size Finder (free)

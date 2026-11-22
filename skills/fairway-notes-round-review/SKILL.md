@@ -1,6 +1,7 @@
 ---
 name: fairway-notes-round-review
 description: Free taster from Fairway Notes. Reads a golfer's last few rounds (score, putts, fairways, greens, penalties, up and downs) and names the one area costing the most strokes, with a drill and a target for next round. Use when someone shares golf scores or stats, asks where they lose strokes, or wants to know what to practice.
+allowed-tools: Read
 ---
 
 # Fairway Notes Round Review (free)

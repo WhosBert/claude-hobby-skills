@@ -1,6 +1,7 @@
 ---
 name: launch-copy-positioning-statement
 description: Free taster from Launch Copy. Turns a short product description into a positioning statement in the For, who, is a, that, unlike, we format adapted from Geoffrey Moore's Crossing the Chasm, a one-line pitch, and three value propositions, each with the customer's pain, how the product solves it and the proof to back it, using only proof the user provides. Use when a founder, product marketer or small marketing team asks for a positioning statement, value propositions, value props, a one-liner, an elevator pitch, or how to describe what makes their product different.
+allowed-tools: Read
 ---
 
 # Launch Copy Positioning Statement (free)

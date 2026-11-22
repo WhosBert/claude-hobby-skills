@@ -1,6 +1,7 @@
 ---
 name: small-group-session-plan
 description: Free taster from Small Group. Turns one Bible passage into one ready-to-lead small group or Sunday school meeting: a timed plan that fits the meeting length, an opener, discussion questions that move from observation to interpretation to application, a short context note, an application step and a prayer plan. Respects the leader's tradition, refers to verses by reference, and defers to the leader's church and pastor on doctrine. Use when a lay leader asks for help planning one Bible study session, writing discussion questions on a passage, or leading their group next week.
+allowed-tools: Read
 ---
 
 # Small Group Session Plan (free)

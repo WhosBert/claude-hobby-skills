@@ -1,6 +1,7 @@
 ---
 name: roadmap-room-okr-check
 description: Free taster from Roadmap Room. Grades a set of OKRs (objectives and key results) against a clear rubric, marks each objective and key result Strong, Needs work or Weak with the reason, flags outputs posing as key results, missing baselines, vanity metrics and goals outside the team's control, rewrites the weakest key results as measurable outcomes, and explains 0.0 to 1.0 scoring. Use when someone pastes OKRs or quarterly goals and asks if they're good, how to improve key results, whether a key result is measurable, or how to score OKRs.
+allowed-tools: Read
 ---
 
 # Roadmap Room OKR Check (free)

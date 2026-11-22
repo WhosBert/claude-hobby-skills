@@ -1,6 +1,7 @@
 ---
 name: window-seat-day-plan
 description: Free taster from Window Seat. Builds a one-day itinerary for a city, with times, realistic travel time between stops, meal and rest breaks, things to book ahead or confirm, and an indoor rain plan for each part of the day, paced for the people going (kids, older parents, slow or fast walkers). Does not know current opening hours, prices or closures and says what to confirm. Use when someone asks what to do for a day in a city, wants a one-day itinerary, a day plan for a layover or a free day on a trip, or what to do if it rains.
+allowed-tools: Read
 ---
 
 # Window Seat Day Plan (free)

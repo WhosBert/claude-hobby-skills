@@ -1,6 +1,7 @@
 ---
 name: next-set-session-plan
 description: Free taster from Next Set. Writes one complete personal training session for a client: warm-up, main work with sets, reps, effort and rest, accessories, an optional finisher and a cooldown, with an easier and harder option for every exercise, timed to the session length. Use when a personal trainer or coach asks for a workout, a session plan, a training session for a client, what to do with a new client today, or a full-body, upper, lower or circuit session.
+allowed-tools: Read
 ---
 
 # Next Set Session Plan (free)

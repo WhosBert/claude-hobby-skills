@@ -1,6 +1,7 @@
 ---
 name: floss-box-fabric-plan
 description: Free taster from Floss Box. Takes a cross stitch pattern's stitch count and the fabric, and gives the finished design size, the fabric cut size with the right margin, the needle and strands, in inches and cm. Use when someone asks how much fabric to cut, how big a pattern will be on 14, 16 or 18 count, whether a design fits a frame, or which fabric count to choose.
+allowed-tools: Read
 ---
 
 # Floss Box Fabric Plan (free)

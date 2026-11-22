@@ -1,6 +1,7 @@
 ---
 name: steady-presence-visit-note
 description: Free taster from Steady Presence. Turns a chaplain's rough notes from a visit into a clear, de-identified chart entry with reason, observations, spiritual assessment, care given, plan and referrals, and flags when to refer. Use when a chaplain or spiritual care provider asks to write up a visit, chart a note, document a pastoral or spiritual care encounter, or summarize a visit for the team.
+allowed-tools: Read
 ---
 
 # Steady Presence Visit Note (free)

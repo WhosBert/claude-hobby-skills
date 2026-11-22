@@ -1,6 +1,7 @@
 ---
 name: coop-clutch-flock-starter
 description: Free taster from Coop & Clutch. Plans a first backyard chicken flock: how many hens for the family's egg goal, three breed picks for the climate, coop and run size, chicks or pullets, and a setup checklist. Use when someone asks about starting backyard chickens, how many chickens they need, which breeds to get, or what they need before the chicks arrive.
+allowed-tools: Read
 ---
 
 # Coop & Clutch Flock Starter (free)

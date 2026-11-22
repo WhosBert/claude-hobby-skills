@@ -1,6 +1,7 @@
 ---
 name: clear-skies-night-plan
 description: Free taster from Clear Skies. Builds a one-page observing plan for one night from the user's telescope or binoculars, sky and date: five targets in the order they're best placed, the eyepiece and magnification for each, a finding tip and what they'll really see. Use when someone asks what to look at tonight, what they can see with their telescope or binoculars, stargazing plans, or what's up in the night sky this week.
+allowed-tools: Read
 ---
 
 # Clear Skies Night Plan (free)

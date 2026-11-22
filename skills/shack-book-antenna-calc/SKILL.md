@@ -1,6 +1,7 @@
 ---
 name: shack-book-antenna-calc
 description: Free taster from Shack Book. Calculates starting lengths for common amateur radio antennas (half-wave dipoles, quarter-wave verticals and radials) for any frequency in feet and metres, explains how to trim for low SWR, and checks the frequency against the user's licence class. Use when someone asks how long to cut an antenna, what length a dipole should be, or how to lower SWR.
+allowed-tools: Read
 ---
 
 # Shack Book Antenna Calculator (free)

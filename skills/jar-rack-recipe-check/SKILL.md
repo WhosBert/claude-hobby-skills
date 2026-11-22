@@ -1,6 +1,7 @@
 ---
 name: jar-rack-recipe-check
 description: Free taster from Jar Rack. Checks a home canning recipe before you start: whether it comes from a tested source like USDA or the National Center for Home Food Preservation, whether the food needs a boiling water bath or a pressure canner and why, and the water bath time or canner pressure adjusted for the user's altitude. Never invents a processing time. Use when someone shares a canning recipe, asks if a recipe is safe to can, asks water bath or pressure canner, or asks how to adjust canning time for altitude.
+allowed-tools: Read
 ---
 
 # Jar Rack Recipe Check (free)

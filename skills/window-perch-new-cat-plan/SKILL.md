@@ -1,6 +1,7 @@
 ---
 name: window-perch-new-cat-plan
 description: Free taster from Window Perch. Builds a first-weeks plan for a new kitten or adult cat: a safe-room setup, a daily routine, litter box count, size and placement, daily food from weight using 70 × kg^0.75, play, meeting people and pets slowly, cat-proofing and first vet visit reminders, all with rewards and no punishment. Use when someone is getting or just got a cat or kitten, asks what supplies a new cat needs, how to set up a litter box, how much to feed a kitten, or how to help a new cat settle in.
+allowed-tools: Read
 ---
 
 # Window Perch New Cat Plan (free)

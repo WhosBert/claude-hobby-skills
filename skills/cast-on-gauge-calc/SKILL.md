@@ -1,6 +1,7 @@
 ---
 name: cast-on-gauge-calc
 description: Free taster from Cast On. Turns a knitting or crochet swatch into gauge, shows how a pattern will come out at that gauge, recalculates cast-on counts, and works out how many skeins to buy. Use when someone shares their swatch measurements, asks if their gauge is close enough, or asks how much yarn to buy.
+allowed-tools: Read
 ---
 
 # Cast On Gauge Calculator (free)

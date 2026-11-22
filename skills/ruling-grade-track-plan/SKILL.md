@@ -1,6 +1,7 @@
 ---
 name: ruling-grade-track-plan
 description: Free taster from Ruling Grade. Turns a room, scale and era into a one-page model railroad layout concept with minimum radius, grade, turnout size and two plan shapes to compare. Use when someone asks what layout fits their space, how to start a model railroad, what radius or grade to use, or how to plan an HO, N, O or other scale layout.
+allowed-tools: Read
 ---
 
 # Ruling Grade Track Plan (free)

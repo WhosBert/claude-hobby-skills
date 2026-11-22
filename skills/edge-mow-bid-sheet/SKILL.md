@@ -1,6 +1,7 @@
 ---
 name: edge-mow-bid-sheet
 description: Free taster from Edge & Mow. Prices lawn mowing for one lawn or a whole list from mowable area, mower deck width, mowing speed, overlap and efficiency, trim and setup time, drive time, crew size, a target hourly rate per person and equipment cost, shows the math for every lawn, and writes a clean bid table to send. Use when a lawn care operator or landscaper asks what to charge for mowing, how to bid a lawn by square feet or acres, how long a lawn will take to mow, or whether their mowing prices are too low.
+allowed-tools: Read
 ---
 
 # Edge & Mow Bid Sheet (free)

@@ -1,6 +1,7 @@
 ---
 name: next-rung-resume-check
 description: Free taster from Next Rung. Checks one resume against one job posting for US and Canadian employers: pulls the posting's key terms and shows which are matched, missing or there in other words, rewrites the three weakest bullets into achievement bullets using only the user's real facts and numbers, and flags what to remove (photo, age, date of birth, marital status, SIN or SSN). Never invents experience, titles, degrees or numbers. Use when someone pastes a resume and a job posting, asks if their resume fits a job, asks about resume keywords or ATS, or wants their bullets improved.
+allowed-tools: Read
 ---
 
 # Next Rung Resume Check (free)

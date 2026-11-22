@@ -1,6 +1,7 @@
 ---
 name: fresh-keys-move-timeline
 description: Free taster from Fresh Keys. Builds a dated, week-by-week moving timeline counted back from moving day, up to 8 weeks out (shorter if the move is sooner), with what to book, pack and update each week, a moving day and first night checklist, and the main scam red flags. Use when someone is moving on a date, asks what to do when before a move, wants a moving checklist or schedule, or has a lease end or closing date coming up.
+allowed-tools: Read
 ---
 
 # Fresh Keys Move Timeline (free)

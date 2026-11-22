@@ -1,6 +1,7 @@
 ---
 name: plate-math-starter-program
 description: Free taster from Plate Math. Builds a first strength program for an adult beginner: 2 or 3 full-body days a week with the squat, bench, press, deadlift and rows (or dumbbell swaps), safe starting weights, warm-ups, rest times and a simple rule for adding weight. Use when someone wants to start lifting, asks for a beginner gym program, or asks how much weight to start with.
+allowed-tools: Read
 ---
 
 # Plate Math Starter Program (free)

@@ -1,6 +1,7 @@
 ---
 name: paper-trail-document-checklist
 description: Free taster from Paper Trail. Builds one household's tax document checklist from what happened in their year (jobs, side or gig income, a move, a new baby, buying or selling a home, retiring, school, a rental, investments), using US forms (W-2, 1099, 1098) or Canadian slips (T4, T4A, T5, T2202), grouped as a ticked list, with anything uncertain saved as a question for their preparer. It is an organizer and never gives tax advice. Use when someone asks what documents they need for their taxes, what to bring to their accountant or tax preparer, which tax forms or slips to expect, or how to get ready for tax season.
+allowed-tools: Read
 ---
 
 # Paper Trail Document Checklist (free)

@@ -1,6 +1,7 @@
 ---
 name: turn-order-game-pick
 description: Free taster from Turn Order. Picks three board or card games for a group's player count, time and experience, with why each fits and a one-minute teach for the top pick. Use when someone asks what board game to play, what to bring to game night, a good game for a number of players, a game for new players or family, or what to play from their shelf.
+allowed-tools: Read
 ---
 
 # Turn Order Game Pick (free)

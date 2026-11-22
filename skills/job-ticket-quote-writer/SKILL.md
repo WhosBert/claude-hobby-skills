@@ -1,6 +1,7 @@
 ---
 name: job-ticket-quote-writer
 description: Free taster from Job Ticket. Turns a tradesperson's job notes into a clear, professional quote with scope, inclusions, exclusions, price from their own costs and margin, payment terms and validity, plus a short email to send it. Use when a contractor, electrician, plumber, HVAC tech, painter, landscaper, cleaner or handyman asks for a quote, estimate, bid or proposal for a job.
+allowed-tools: Read
 ---
 
 # Job Ticket Quote Writer (free)

@@ -1,6 +1,7 @@
 ---
 name: bright-sill-light-check
 description: Free taster from Bright Sill. Works out how much light a spot in the home really gets from window direction, distance and an optional phone lux or foot-candle reading, names it low, medium, bright indirect or direct light, estimates daily light integral, lists houseplants that will thrive there (flagging any toxic to cats and dogs) and gives a simple watering rule for that spot. Use when someone asks which plant fits a room or window, whether a spot is bright enough, why a plant is leggy or leaning, or what a lux reading means for plants.
+allowed-tools: Read
 ---
 
 # Bright Sill Light Check (free)

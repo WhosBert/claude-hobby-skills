@@ -1,6 +1,7 @@
 ---
 name: even-keel-month-plan
 description: Free taster from Even Keel. Builds one month's household budget from take-home pay and a list of bills: converts pay to a monthly amount, adds up every bill with the math shown, shows what's left over per month and per week, flags missing lines like gas, groceries and once-a-year costs, and gives the single first fix that helps most. A planning tool, not financial advice; never recommends products. Use when someone asks for a simple budget, wants to know where their money goes, says they are broke before payday or living paycheck to paycheck, or pastes their pay and bills.
+allowed-tools: Read
 ---
 
 # Even Keel Month Plan (free)

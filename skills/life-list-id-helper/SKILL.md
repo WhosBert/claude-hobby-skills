@@ -1,6 +1,7 @@
 ---
 name: life-list-id-helper
 description: Free taster from Life List. Helps a birder identify a bird they saw or heard by asking the right questions (where, when, size, shape, behaviour, field marks, sound), gives the most likely species with an honest confidence level and the look-alikes to rule out, and says whether it's safe to count. Use when someone describes or shares a photo of a bird and asks what it is.
+allowed-tools: Read
 ---
 
 # Life List ID Helper (free)

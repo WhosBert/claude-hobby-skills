@@ -1,6 +1,7 @@
 ---
 name: long-leash-puppy-plan
 description: Free taster from Long Leash. Builds a first-month plan for a new puppy: a daily routine for its age, house training and crate training steps, sleep, biting, socialization, daily food from weight using 70 × kg^0.75, and first vet visit reminders, all with positive reinforcement. Use when someone is getting or just got a puppy, asks how to house train or crate train, how much to feed a puppy, why their puppy bites, or what a puppy schedule should look like.
+allowed-tools: Read
 ---
 
 # Long Leash Puppy Plan (free)

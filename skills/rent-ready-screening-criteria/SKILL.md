@@ -1,6 +1,7 @@
 ---
 name: rent-ready-screening-criteria
 description: Free taster from Rent Ready. Writes clear, written tenant screening criteria a small landlord can post with a listing and apply the same way to every applicant, covering income, credit, rental history, occupancy, pets and the application process, with Fair Housing checks and local rules to confirm. Use when a landlord asks how to screen tenants, what to require from applicants, or wants rental criteria to post.
+allowed-tools: Read
 ---
 
 # Rent Ready Screening Criteria (free)

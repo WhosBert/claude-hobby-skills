@@ -1,6 +1,7 @@
 ---
 name: clean-sweep-price-sheet
 description: Free taster from Clean Sweep. Builds a house cleaning price sheet for standard, deep and move-out cleans from the owner's real speed (square feet or rooms per labor hour), crew size, target rate per labor hour, supplies and minimum charge, shows the math for every price, and writes a clean price list to send. Use when a house cleaner or cleaning business owner asks what to charge, how to price by square foot or by room, how much a deep or move-out clean should cost, or whether their prices are too low.
+allowed-tools: Read
 ---
 
 # Clean Sweep Price Sheet (free)

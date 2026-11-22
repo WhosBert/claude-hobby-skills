@@ -1,6 +1,7 @@
 ---
 name: fresh-tracks-packing-list
 description: Free taster from Fresh Tracks. Builds a ski or snowboard trip packing list for the user's group, one list per person with kids separate, using a three-layer clothing system matched to the temperatures they expect, plus what to rent versus bring and travel items. Use when someone is packing for a ski or snowboard trip, asks what to wear skiing, what kids need for ski school, or how to layer for the cold.
+allowed-tools: Read
 ---
 
 # Fresh Tracks Packing List (free)

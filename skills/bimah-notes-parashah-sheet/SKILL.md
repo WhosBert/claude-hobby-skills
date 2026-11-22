@@ -1,6 +1,7 @@
 ---
 name: bimah-notes-parashah-sheet
 description: Free taster from Bimah Notes. Builds a one-page study sheet for any week's Torah portion: the parashah and its date, a short summary, key verses by reference, Hebrew words with transliteration, discussion questions and a d'var Torah seed. Use when someone asks about this week's parashah, a Torah portion, a d'var Torah idea, a Shabbat table discussion, or a study sheet for a class or b'nai mitzvah student.
+allowed-tools: Read
 ---
 
 # Bimah Notes Parashah Sheet (free)

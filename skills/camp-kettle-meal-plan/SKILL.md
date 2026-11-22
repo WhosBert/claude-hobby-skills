@@ -1,6 +1,7 @@
 ---
 name: camp-kettle-meal-plan
 description: Free taster from Camp Kettle. Builds a camping meal plan for the group and number of nights, with simple camp recipes, servings, a shopping list with quantities, water amounts and cooler and food storage tips. Use when someone asks what to eat camping, how much food or water to bring, how to pack a cooler, or wants a camping shopping list.
+allowed-tools: Read
 ---
 
 # Camp Kettle Meal Plan (free)

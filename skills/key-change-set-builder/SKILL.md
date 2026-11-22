@@ -1,6 +1,7 @@
 ---
 name: key-change-set-builder
 description: Free taster from Key Change. Turns a worship leader's song list (titles, keys, lengths) and the sermon theme into an ordered set with key flow, a transition for each change, total time and a simple run sheet. Use when someone asks to build a worship set, order songs for Sunday, plan transitions between keys, or time a set list.
+allowed-tools: Read
 ---
 
 # Key Change Set Builder (free)

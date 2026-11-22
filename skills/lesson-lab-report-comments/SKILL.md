@@ -1,6 +1,7 @@
 ---
 name: lesson-lab-report-comments
 description: Free taster from Lesson Lab. Writes specific, kind and honest report card comments from a teacher's quick notes, with a strength, a next step and one way families can help, in the school's length limit and tone. Use when a teacher asks for report card comments, progress report comments, or help turning notes about students into comments.
+allowed-tools: Read
 ---
 
 # Lesson Lab Report Comments (free)

@@ -1,6 +1,7 @@
 ---
 name: proof-day-pan-swap
 description: Free taster from Proof Day. Converts a baking recipe to a different pan or batch size using pan area, then gives every ingredient scaled in grams and cups, the pan fill level and bake time tips. Use when someone wants to bake a recipe in a different pan, double or halve a recipe, turn a layer cake into a sheet cake or cupcakes, or asks what size pan to use.
+allowed-tools: Read
 ---
 
 # Proof Day Pan Swap (free)

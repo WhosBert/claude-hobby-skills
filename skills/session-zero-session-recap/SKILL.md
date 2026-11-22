@@ -1,6 +1,7 @@
 ---
 name: session-zero-session-recap
 description: Free taster from Session Zero. Turns a game master's messy session notes or transcript into a read-aloud recap for next session plus a GM list of open threads, clues and NPC changes. Use when a GM asks for a session recap, a summary of last session, or "what happened last time".
+allowed-tools: Read
 ---
 
 # Session Zero Session Recap (free)

@@ -1,6 +1,7 @@
 ---
 name: listing-desk-listing-writer
 description: Free taster from Listing Desk. Writes a real estate listing description from an agent's notes in three versions (MLS within the character limit, a short portal version and a social caption), and checks the copy for Fair Housing risk words. Use when an agent or seller asks for a listing description, MLS remarks, property description or a just listed post.
+allowed-tools: Read
 ---
 
 # Listing Desk Listing Writer (free)

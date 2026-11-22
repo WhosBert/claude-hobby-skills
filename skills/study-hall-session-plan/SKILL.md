@@ -1,6 +1,7 @@
 ---
 name: study-hall-session-plan
 description: Free taster from Study Hall. Writes one 60-minute tutoring session plan for a given student, subject and goal, with a short review, teaching in small steps with worked examples, guided then independent practice, a check for understanding with a move-on rule, a small practice task and a note for parents. Coaches understanding and never writes the student's graded work. Use when a tutor, teacher or parent asks for a lesson or session plan, what to do in a tutoring session, how to teach a topic in an hour, or how to check whether a student understood.
+allowed-tools: Read
 ---
 
 # Study Hall Session Plan (free)

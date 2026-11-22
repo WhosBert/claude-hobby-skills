@@ -1,6 +1,7 @@
 ---
 name: deuce-court-drill-plan
 description: Free taster from Deuce Court. Builds one timed tennis practice session for the player's level, the number of players (solo, 2 or 4) and one focus, like consistency, serve, net play or doubles, with targets and a game at the end. Use when someone asks for a tennis drill, a practice plan, what to work on with a hitting partner, or how to practice alone with a wall or ball machine.
+allowed-tools: Read
 ---
 
 # Deuce Court Drill Plan (free)

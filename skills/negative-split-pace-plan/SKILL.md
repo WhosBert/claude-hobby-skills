@@ -1,6 +1,7 @@
 ---
 name: negative-split-pace-plan
 description: Free taster from Negative Split. Turns one recent race into a predicted time for the next race with the Riegel formula, sets easy, tempo and interval paces, and writes one sample week of running. Use when someone asks what time they can run in a 10K, half marathon or marathon, what pace their easy runs should be, or how to pace a race.
+allowed-tools: Read
 ---
 
 # Negative Split Pace Plan (free)

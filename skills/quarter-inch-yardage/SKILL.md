@@ -1,6 +1,7 @@
 ---
 name: quarter-inch-yardage
 description: Free taster from Quarter Inch. Calculates backing, binding and batting for any quilt size, and how many fabric strips or yards a set of cut pieces needs. Use when a quilter asks how much backing, binding or fabric to buy.
+allowed-tools: Read
 ---
 
 # Quarter Inch Yardage (free)

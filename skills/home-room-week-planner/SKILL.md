@@ -1,6 +1,7 @@
 ---
 name: home-room-week-planner
 description: Free taster from Home Room. Builds one realistic homeschool week for a family with one or more kids at different grades, with together subjects, independent work and a minimum-day backup. Use when a homeschooling parent asks for a weekly plan, a daily schedule, or how to teach several kids at once.
+allowed-tools: Read
 ---
 
 # Home Room Week Planner (free)

@@ -1,6 +1,7 @@
 ---
 name: maker-tag-price-plan
 description: Free taster from Maker Tag. Prices one handmade or small-batch product from materials, labour, packaging, overhead, shipping and the fee schedule the seller enters, shows every fee and what they keep, and checks whether the price works for wholesale. Use when a maker or online seller asks how to price an item, what to charge, whether they're making money after marketplace fees, how to price with free shipping, or how to set wholesale and retail prices.
+allowed-tools: Read
 ---
 
 # Maker Tag Price Plan (free)

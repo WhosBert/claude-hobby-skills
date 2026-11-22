@@ -1,6 +1,7 @@
 ---
 name: seed-season-frost-calendar
 description: Free taster from Seed & Season. Turns a gardener's local frost dates into a dated seed-starting and planting calendar for up to 8 common vegetables and herbs. Use when someone asks when to start seeds, when to plant tomatoes, what to sow this month, or how their frost dates translate into planting dates.
+allowed-tools: Read
 ---
 
 # Seed & Season Frost Calendar (free)

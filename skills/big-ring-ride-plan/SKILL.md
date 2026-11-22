@@ -1,6 +1,7 @@
 ---
 name: big-ring-ride-plan
 description: Free taster from Big Ring. Builds a one-page plan for one bike ride: the effort or zone to ride at, a gearing tip for the route, starting tire pressure, carbs and bottles, and a pre-ride safety check. Use when someone asks how hard to ride, what tire pressure to run, how much to eat on a long ride, or how to prepare for a group ride, gravel ride or charity event.
+allowed-tools: Read
 ---
 
 # Big Ring Ride Plan (free)

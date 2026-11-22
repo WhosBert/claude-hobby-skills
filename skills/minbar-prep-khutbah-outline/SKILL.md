@@ -1,6 +1,7 @@
 ---
 name: minbar-prep-khutbah-outline
 description: Free taster from Minbar Prep. Turns a topic into a two-part Friday khutbah outline with the Arabic openings named, Quran references, an English body with one clear message, and timing for the Jumu'ah slot. Use when someone asks for a khutbah, Jumu'ah talk, Friday sermon, Eid khutbah, or a topic for this week's khutbah.
+allowed-tools: Read
 ---
 
 # Minbar Prep Khutbah Outline (free)

@@ -1,6 +1,7 @@
 ---
 name: grant-ready-need-statement
 description: Free taster from Grant Ready. Writes a clear, cited statement of need (problem statement) for a nonprofit grant proposal from the organization's own data and stories, inside the funder's word limit, and flags any claim that needs a source. Use when someone asks for a need statement, problem statement, statement of need, or the "why this matters" section of a grant.
+allowed-tools: Read
 ---
 
 # Grant Ready Need Statement (free)

@@ -1,6 +1,7 @@
 ---
 name: leash-key-client-intake
 description: Free taster from Leash & Key. Builds a complete client intake form for one household and pet for an independent pet sitter or dog walker, covering owner and local emergency contacts, regular and emergency vet, a signed vet authorization with a spending limit, the pet's details, feeding and medication exactly as the owner writes them, behavior, escape risks, home access, keys and alarm, plus a meet-and-greet checklist. Use when a pet sitter or dog walker has a new client or a meet-and-greet coming up, or asks for an intake form, new client questionnaire, pet profile or what to ask before the first visit.
+allowed-tools: Read
 ---
 
 # Leash & Key Client Intake (free)

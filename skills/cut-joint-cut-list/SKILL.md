@@ -1,6 +1,7 @@
 ---
 name: cut-joint-cut-list
 description: Free taster from Cut & Joint. Turns a simple woodworking project (box, shelf, bookcase, bench, frame) into a clean cut list with final dimensions and a board-foot or plywood shopping estimate. Use when someone asks for a cut list, how much lumber or plywood to buy, or board feet for a project.
+allowed-tools: Read
 ---
 
 # Cut & Joint Cut List (free)

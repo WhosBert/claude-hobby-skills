@@ -1,6 +1,7 @@
 ---
 name: last-light-hunt-plan
 description: Free taster from Last Light. Builds a one-page plan for one legal hunt: where to sit or set up for the wind, when to get there, shot rules and range, what to do after the shot, and how to keep the meat cool. Use when someone asks where to put a stand or blind, how to hunt a wind direction, how to plan a deer, elk, turkey or duck hunt this weekend, or what to do after they shoot.
+allowed-tools: Read
 ---
 
 # Last Light Hunt Plan (free)

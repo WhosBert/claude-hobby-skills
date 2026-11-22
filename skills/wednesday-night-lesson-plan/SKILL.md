@@ -1,6 +1,7 @@
 ---
 name: wednesday-night-lesson-plan
 description: Free taster from Wednesday Night. Turns a Bible passage or topic into a one-night youth lesson for middle or high schoolers: a timed run with an opener, a talk outline with one big idea, small-group questions from easy to deep and a next step. Use when a youth pastor or volunteer asks for a youth lesson, a youth group talk, small-group questions, a devotional for students, or an idea for Wednesday night.
+allowed-tools: Read
 ---
 
 # Wednesday Night Lesson Plan (free)

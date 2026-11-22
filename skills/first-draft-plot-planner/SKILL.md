@@ -1,6 +1,7 @@
 ---
 name: first-draft-plot-planner
 description: Free taster from First Draft. Turns a novel idea into a one-sentence premise and a three-act beat outline in the writer's own story terms, with where each beat usually falls (word count, manuscript page and chapter) for their target length. Coaches with questions rather than writing the story. Use when someone has a story idea and asks how to plot it, wants a beat sheet or outline, asks where the midpoint or inciting incident should go, or says they don't know what happens next in their novel.
+allowed-tools: Read
 ---
 
 # First Draft Plot Planner (free)

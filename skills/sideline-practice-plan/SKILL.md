@@ -1,6 +1,7 @@
 ---
 name: sideline-practice-plan
 description: Free taster from Sideline. Writes one timed, kid-first practice plan for a youth or rec team in any sport, with drills that keep every player moving. Use when a coach asks for a practice plan, drills for tonight, or what to do at practice.
+allowed-tools: Read
 ---
 
 # Sideline Practice Plan (free)

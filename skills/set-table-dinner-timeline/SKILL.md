@@ -1,6 +1,7 @@
 ---
 name: set-table-dinner-timeline
 description: Free taster from Set Table. Builds a holiday dinner cooking timeline that works back from serving time: when a frozen turkey goes in the fridge (24 hours per 4 to 5 lb), USDA roasting times at 325°F, when to check for 165°F, resting, sides, carving, and leftovers under the 2-hour rule. Use when someone asks when to thaw a turkey, what time the turkey or roast goes in, or how to time a holiday dinner.
+allowed-tools: Read
 ---
 
 # Set Table Dinner Timeline (free)

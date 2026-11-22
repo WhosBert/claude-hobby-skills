@@ -1,6 +1,7 @@
 ---
 name: hide-bench-stitch-plan
 description: Free taster from Hide Bench. Plans the hand stitching for one leather project: iron pitch, thread size, thread length to cut with the math shown, and saddle stitch steps with backstitching and finishing the ends. Use when someone asks how much thread to cut, what stitching iron or thread size to use, stitches per inch for a wallet, belt or bag, or how to saddle stitch.
+allowed-tools: Read
 ---
 
 # Hide Bench Stitch Plan (free)

@@ -1,6 +1,7 @@
 ---
 name: comb-smoke-mite-check
 description: Free taster from Comb & Smoke. Turns a varroa alcohol wash, soapy wash or sugar roll count into mites per 100 bees, compares it with the Honey Bee Health Coalition threshold for the colony's season, and lists clear next steps and when to retest. Use when a beekeeper shares a mite count, asks if their mite load is bad, asks whether to treat for varroa, or asks how to do a mite wash.
+allowed-tools: Read
 ---
 
 # Comb & Smoke Mite Check (free)

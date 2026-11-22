@@ -1,6 +1,7 @@
 ---
 name: ordinary-time-homily-outline
 description: Free taster from Ordinary Time. Finds the Sunday's name, Lectionary cycle (Year A, B or C), season and color, then builds a one-page homily outline around one point from the Gospel and first reading, with an image prompt and a concrete sending. Use when a priest, deacon or homilist asks for a homily outline, this Sunday's readings, which Lectionary year it is, or help preparing to preach.
+allowed-tools: Read
 ---
 
 # Ordinary Time Homily Outline (free)
