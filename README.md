@@ -1,6 +1,6 @@
 # Free AI skills for hobbies and work (Claude, ChatGPT, Gemini and Grok)
 
-88 small, practical skills for Claude, ChatGPT, Gemini and Grok: 67 for hobbies and home life, from budgeting, meal planning, moving, travel, gardening, fishing and quilting to hiking, baking, beekeeping, dog training, chess, astronomy and new parenting, and 21 for work, from real estate and grant writing to bookkeeping, tutoring, food trucks, freelancing, product management and marketing.
+91 small, practical skills for Claude, ChatGPT, Gemini and Grok: 70 for hobbies and home life, from budgeting, meal planning, moving, decluttering, home cocktails, trading cards, travel, gardening, fishing and quilting to hiking, baking, beekeeping, dog training, chess, astronomy and new parenting, and 21 for work, from real estate and grant writing to bookkeeping, tutoring, food trucks, freelancing, product management and marketing.
 
 Each one does a single job well, like turning your frost date into a planting calendar or working out quilt yardage. They're free and MIT licensed. Browse every store at [whatiflabs.ai/skills](https://whatiflabs.ai/skills?utm_source=github&utm_medium=referral&utm_campaign=free-skills).
 
@@ -75,6 +75,9 @@ Each one does a single job well, like turning your frost date into a planting ca
 | [Fresh Keys Move Timeline](skills/fresh-keys-move-timeline/) | A small skill that builds a dated, week-by-week moving timeline counted back from your moving day, up to 8 weeks out, with what to book, pack and update each week. | [Download](dist/fresh-keys-move-timeline.zip) | [moving.whatiflabs.ai](https://moving.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
 | [Sunday Prep Week Plan](skills/sunday-prep-week-plan/) | A small skill that plans 5 weeknight dinners for your household, with shared ingredients, one planned leftover night and a grocery list grouped by store section. | [Download](dist/sunday-prep-week-plan.zip) | [meals.whatiflabs.ai](https://meals.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
 | [Window Seat Day Plan](skills/window-seat-day-plan/) | A small skill that builds a one-day itinerary for a city, with times, travel between stops, meal breaks and a rain plan. | [Download](dist/window-seat-day-plan.zip) | [travel.whatiflabs.ai](https://travel.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Open Shelf Room Reset](skills/open-shelf-room-reset/) | A small skill that turns one cluttered room into a short, doable plan: the order to work in, sessions sized to your time, and where every pile goes. | [Download](dist/open-shelf-room-reset.zip) | [declutter.whatiflabs.ai](https://declutter.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Bar Cart Batch Cocktail](skills/bar-cart-batch-cocktail/) | A small skill that turns any cocktail recipe into a big-batch version for a party, with the right water added, bottle counts and how to serve it. | [Download](dist/bar-cart-batch-cocktail.zip) | [homebar.whatiflabs.ai](https://homebar.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
+| [Top Loader Grade Check](skills/top-loader-grade-check/) | A small skill that helps you decide whether one card is worth sending for grading: a condition check, then the math with your sold comps and fees. | [Download](dist/top-loader-grade-check.zip) | [cards.whatiflabs.ai](https://cards.whatiflabs.ai/?utm_source=github&utm_medium=referral&utm_campaign=free-skills) |
 
 ## Work
 
@@ -217,6 +220,9 @@ Each store also has free calculators that run in your browser, no sign-up:
 - [Freelance Rate Calculator: Hourly and Day Rate From Your Income Goal](https://freelance.whatiflabs.ai/freelance-rate-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
 - [RICE Score Calculator: Reach, Impact, Confidence, Effort](https://product.whatiflabs.ai/rice-score-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
 - [LTV to CAC Ratio Calculator: Customer Acquisition Cost, Lifetime Value and Payback](https://marketing.whatiflabs.ai/ltv-cac-ratio-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [30-Day Declutter Challenge Calculator and Printable Plan](https://declutter.whatiflabs.ai/30-day-declutter-challenge-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Batch Cocktail Calculator with Dilution: Pitcher Cocktails for a Party](https://homebar.whatiflabs.ai/batch-cocktail-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
+- [Is It Worth Grading? Card Grading Calculator for PSA, BGS, SGC and CGC](https://cards.whatiflabs.ai/card-grading-calculator?utm_source=github&utm_medium=referral&utm_campaign=free-skills)
 
 ## Who made these
 
